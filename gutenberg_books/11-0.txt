@@ -3734,3 +3734,93 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
+########
+# Test granular module
+granular_module_code = """
+import pandas as pd
+
+def calculate_dimension_scores(df):
+    grouped = (
+        df.groupby(['Function Area', 'Foundry Dataset', 'Data Dimension'])
+        .agg(
+            Total_Rules=('Rule Name', 'count'),
+            Passed_Rules=('Rule Status.1', lambda x: (x == 'Successful').sum())
+        )
+        .reset_index()
+    )
+    grouped['Dimension_Score'] = round(100 * grouped['Passed_Rules'] / grouped['Total_Rules'], 2)
+    return grouped
+
+def calculate_metadata_scores(df):
+    df['Steward_Assigned'] = df['Community Name'].notnull().astype(int)
+    df['Data_Owner_Identified'] = df['Function Area'].notnull().astype(int)
+    df['Business_Term_Defined'] = df['Description'].notnull().astype(int)
+    df['Technical_Metadata_Present'] = df[['Asset Id Sor Table', 'Sor Column Asset Id']].notnull().all(axis=1).astype(int)
+
+    grouped = (
+        df.groupby(['Function Area', 'Foundry Dataset'])
+        .agg(
+            Steward_Assigned=('Steward_Assigned', 'max'),
+            Data_Owner_Identified=('Data_Owner_Identified', 'max'),
+            Business_Term_Coverage=('Business_Term_Defined', 'mean'),
+            Technical_Metadata_Coverage=('Technical_Metadata_Present', 'mean')
+        )
+        .reset_index()
+    )
+    grouped['Metadata_Score'] = (
+        0.25 * grouped['Steward_Assigned'] * 100 +
+        0.25 * grouped['Data_Owner_Identified'] * 100 +
+        0.25 * grouped['Business_Term_Coverage'] * 100 +
+        0.25 * grouped['Technical_Metadata_Coverage'] * 100
+    ).round(2)
+    return grouped
+
+def calculate_composite_scores(dimension_df, metadata_df, dimension_weights):
+    dq_scores = []
+    for (func_area, dataset), group in dimension_df.groupby(['Function Area', 'Foundry Dataset']):
+        dq_score = 0.0
+        for _, row in group.iterrows():
+            dim = row['Data Dimension']
+            dq_score += dimension_weights.get(dim, 0) * row['Dimension_Score']
+        dq_scores.append({
+            'Function Area': func_area,
+            'Foundry Dataset': dataset,
+            'DQ_Score': round(dq_score, 2)
+        })
+    dq_df = pd.DataFrame(dq_scores)
+
+    final = dq_df.merge(metadata_df, on=['Function Area', 'Foundry Dataset'], how='left')
+    final['Composite_Score'] = round(
+        0.5 * final['DQ_Score'] + 0.5 * final['Metadata_Score'], 2
+    )
+    return final
+
+def run_granular_scoring(filepath, dimension_weights):
+    df = pd.read_excel(filepath, sheet_name='DQ')
+    dim_scores = calculate_dimension_scores(df)
+    meta_scores = calculate_metadata_scores(df)
+    final_scores = calculate_composite_scores(dim_scores, meta_scores, dimension_weights)
+    return dim_scores, meta_scores, final_scores
+"""
+
+granular_module_path = "/granular_dataset_scoring.py"
+with open(granular_module_path, "w") as f:
+    f.write(granular_module_code)
+
+granular_module_path
+
+###
+from granular_dataset_scoring import run_granular_scoring
+
+# Define your weights for dimensions
+dimension_weights = {
+    'Completeness': 0.4,
+    'Conformity': 0.3,
+    'Accuracy': 0.3
+}
+
+dim_scores, meta_scores, final_scores = run_granular_scoring(
+    filepath='DQ Rule Detail.xlsx',
+    dimension_weights=dimension_weights
+)

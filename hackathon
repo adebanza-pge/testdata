@@ -1,0 +1,76 @@
+Storyboard for Hackathon Pitch
+Product Name: Grid Maintenance Prioritization Assistant
+Theme: Proactively identify, prioritize, and resolve overdue grid maintenance work to improve safety, reliability, and crew efficiency at PG&E.
+
+Slide-by-Slide Pitch Deck Structure
+
+Slide 1: Title Slide
+* Title: Grid Maintenance Prioritization Assistant
+* Subtitle: Power Platform Solution to Optimize PG&E’s Infrastructure Reliability
+* Team Members: GDM
+* Tools Used: Power BI, Power Automate, Microsoft Copilot
+
+Slide 2: The Problem
+“Maintenance backlog is growing. Field teams are stretched. Delays in repairs create safety, regulatory, and operational risks.”
+* Thousands of work orders are managed daily
+* Critical assets (transformers, poles, gas valves) require timely attention
+* Current tracking is siloed and reactive
+* Crew scheduling doesn’t adapt to risk levels
+* No real-time prioritization view
+
+Slide 3: The Solution
+A Power BI-powered command center + automation engine that gives field ops leaders a real-time view of grid maintenance status and triggers intelligent workflows
+* Interactive dashboard to visualize overdue jobs and associated risk
+* Alerts sent automatically when work exceeds thresholds
+* Crew availability incorporated for smarter assignment
+* Copilot responds to natural language questions for decision-making
+
+Slide 4: Workflow Architecture
+Power BI Dashboard
+* Overdue jobs map + filters (location, risk, asset type)
+* Key Metrics: Total overdue, time-to-complete, top regions at risk
+Power Automate Flows
+* Trigger Teams/email alert for overdue high-risk jobs
+* Assign job to crew based on availability
+* Weekly digest emailed to regional ops managers
+Copilot Use
+* Natural language queries:
+    * “Which region has the most critical overdue jobs?”
+    * “What is the average delay for transformer repairs?”
+
+Slide 5: Sample Power BI Dashboard (Mockup)
+We’ll create:
+* Map view: Color-coded pins by risk level
+* Bar chart: Overdue jobs by region or asset type
+* Table view: Work order details with priority score
+* KPI tiles: Avg days overdue, # of red-alert jobs, weekly trend
+
+Slide 6: Power Automate Example Flow
+* Trigger: New job exceeds 5-day overdue + risk score > 7
+* Action: Send notification to Supervisor via Teams
+* Secondary Action: Update SharePoint list with status
+* Bonus: Weekly regional summary email
+
+Slide 7: Copilot Demo Prompts
+* “List top 5 overdue maintenance jobs in the North Bay”
+* “Which crews are available for gas valve repairs this week?”
+* “How many critical jobs are in the red zone near Fresno?”
+Copilot interprets data model behind Power BI and generates answers instantly.
+
+Slide 8: Value to PG&E
+* Faster repairs = reduced outages
+* Lower risk = regulatory compliance & safety improvement
+* Efficient crews = optimized labor & scheduling
+* Better insights = executive visibility
+“This tool becomes the digital nerve center of maintenance ops.”
+
+Slide 9: What’s Next
+* Expand coverage to wildfire risk overlays (add GIS + sensor inputs)
+* Integrate predictive asset failure models
+* Embed dashboard into Teams or mobile Power App for field crews
+
+Slide 10: Thank You / Q&A
+* Quick recap of demo
+* Invite judges to test a prompt or scenario
+
+

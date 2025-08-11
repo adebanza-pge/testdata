@@ -1,0 +1,21 @@
+CrewID,CrewName,Region,Specialty,CapacityHoursPerDay,UtilizationPct,Phone
+C101,Gas Crew 101,Peninsula,Gas,9,51,(415) 555-6745
+C102,Electric Crew 102,Sierra,Electric,7,47,(415) 555-5473
+C103,Vegetation Crew 103,North Bay,Vegetation,9,82,(415) 555-9204
+C104,Substation Crew 104,Sierra,Substation,6,52,(415) 555-2991
+C105,Gas Crew 105,East Bay,Gas,7,59,(415) 555-3412
+C106,Inspection Crew 106,Central Valley,Inspection,9,92,(415) 555-7498
+C107,Electric Crew 107,South Bay,Electric,9,89,(415) 555-7889
+C108,Inspection Crew 108,Peninsula,Inspection,6,70,(415) 555-1851
+C109,Substation Crew 109,Sierra,Substation,8,70,(415) 555-4938
+C110,Substation Crew 110,Sierra,Substation,9,81,(415) 555-6253
+C111,Vegetation Crew 111,Sierra,Vegetation,6,65,(415) 555-9476
+C112,Substation Crew 112,South Bay,Substation,7,72,(415) 555-1189
+C113,Electric Crew 113,San Francisco,Electric,7,49,(415) 555-6314
+C114,Gas Crew 114,East Bay,Gas,6,59,(415) 555-3284
+C115,Vegetation Crew 115,East Bay,Vegetation,9,85,(415) 555-1766
+C116,Electric Crew 116,Sierra,Electric,6,86,(415) 555-5354
+C117,Inspection Crew 117,Central Valley,Inspection,8,85,(415) 555-9884
+C118,Electric Crew 118,Sierra,Electric,6,61,(415) 555-2993
+C119,Electric Crew 119,Peninsula,Electric,9,60,(415) 555-1645
+C120,Electric Crew 120,San Francisco,Electric,8,67,(415) 555-3735

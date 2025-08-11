@@ -1,0 +1,501 @@
+AssetID,AssetType,InstallDate,AgeYears,ConditionScore,LastMaintenanceDate,Region,Latitude,Longitude,InspectionDate,Commodity,System,DiameterInches,Material,CoatingType,SeamType,MAOP_psig,HCA_Flag,ClassLocation,SoilCorrosivityIndex,CPZoneID,CPStatus,LastCPSurveyDate,PipeToSoilPotential_mV,LastILI_Date,ILI_Anomalies_Count,LeakHistoryCount,CorrosionRiskScore,CorrosionRiskScore_Rubric
+A100001,Pole,2000-11-02,24,1,2005-05-02,San Francisco,37.73417,-122.36056,2021-11-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100002,Feeder,1978-09-07,46,1,1986-09-01,San Francisco,37.76084,-122.3617,2019-03-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100003,Switchgear,1979-04-03,46,5,2017-08-11,East Bay,37.80412,-122.02507,2025-05-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100004,Substation Equipment,2011-02-08,14,5,2012-10-06,North Bay,38.09182,-123.01537,2018-04-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100005,Feeder,2000-01-08,25,1,2006-04-07,Peninsula,37.64401,-122.27731,2011-09-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100006,Switchgear,1984-09-04,40,5,1998-10-15,San Francisco,37.70166,-122.51298,2019-06-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100007,Substation Equipment,2018-03-04,7,5,2024-11-06,Peninsula,37.42402,-122.4047,2025-04-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100008,Pole,1998-02-18,27,1,2023-09-21,Central Valley,36.68886,-121.33643,2024-12-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100009,Feeder,1988-08-22,36,5,2008-02-04,North Bay,38.3307,-122.92751,2016-01-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100010,Gas Valve,2004-10-15,20,3,2011-10-14,Sierra,39.00314,-120.01796,2013-10-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100011,Substation Equipment,1986-12-25,38,2,1990-12-05,South Bay,37.06019,-121.61251,2024-04-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100012,Gas Valve,2008-08-11,17,4,2015-05-05,Peninsula,37.37724,-122.29498,2020-02-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100013,Transformer,1982-09-14,42,2,2016-12-08,Peninsula,37.43147,-122.1338,2017-11-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100014,Pole,2006-07-02,19,1,2023-12-03,San Francisco,37.71635,-122.50063,2025-04-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100015,Feeder,1995-06-23,30,3,2022-05-30,Peninsula,37.54706,-122.3347,2023-02-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100016,Feeder,2004-02-27,21,1,2010-06-26,East Bay,37.70075,-122.39097,2023-04-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100017,Regulator,2017-02-02,8,3,2024-08-14,East Bay,37.71159,-122.2624,2024-11-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100018,Regulator,2003-05-23,22,4,2023-07-23,Peninsula,37.37583,-122.47628,2025-03-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100019,Gas Valve,1976-08-12,49,2,1987-05-23,Central Valley,36.80921,-121.47333,2014-09-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100020,Transformer,1988-05-05,37,2,2006-06-19,East Bay,37.97278,-121.81508,2015-01-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100021,Substation Equipment,2006-02-06,19,4,2015-05-20,East Bay,37.6011,-121.60602,2019-02-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100022,Gas Valve,1983-07-28,42,5,1996-05-01,Peninsula,37.38998,-122.40619,2022-06-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100023,Switchgear,1997-11-13,27,2,2004-11-28,Central Valley,37.02679,-121.48881,2017-06-25,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100024,Pole,1984-04-22,41,2,1985-02-13,North Bay,38.27647,-123.14088,2014-04-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100025,Substation Equipment,2012-03-09,13,3,2012-07-20,East Bay,37.50044,-122.38547,2021-06-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100026,Switchgear,2009-06-20,16,5,2016-11-20,South Bay,37.28956,-122.16037,2020-04-30,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100027,Regulator,2007-10-21,17,1,2018-04-26,South Bay,37.08093,-121.74616,2025-04-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100028,Substation Equipment,2018-09-13,6,4,2023-06-13,Sierra,38.56538,-121.10464,2024-08-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100029,Transformer,2005-11-13,19,1,2010-06-01,East Bay,37.5346,-122.34938,2011-06-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100030,Pole,2003-03-04,22,3,2016-12-01,North Bay,38.69943,-122.42996,2017-11-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100031,Transformer,1975-10-05,49,5,1985-02-18,North Bay,38.37921,-122.42777,2019-03-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100032,Feeder,1976-02-28,49,2,2010-03-09,San Francisco,37.70705,-122.385,2024-06-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100033,Regulator,1991-06-20,34,3,2013-01-03,South Bay,37.4158,-121.91097,2017-09-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100034,Transformer,2006-08-16,18,4,2013-11-21,North Bay,38.61825,-122.88629,2023-11-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100035,Pole,1981-12-11,43,3,2003-09-08,North Bay,38.64012,-122.346,2015-12-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100036,Regulator,1985-09-01,39,2,2009-08-20,Sierra,38.72127,-120.067,2015-01-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100037,Pole,2019-09-01,5,5,2021-08-11,San Francisco,37.78056,-122.36088,2023-04-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100038,Substation Equipment,1980-12-28,44,3,2004-07-08,Central Valley,37.16373,-120.85938,2018-08-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100039,Pole,1997-04-18,28,5,2020-02-13,San Francisco,37.81928,-122.46948,2021-06-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100040,Regulator,1989-10-26,35,2,2000-10-30,San Francisco,37.76673,-122.39851,2023-06-26,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100041,Switchgear,2022-04-07,3,5,2023-12-02,Sierra,38.98823,-120.78427,2024-06-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100042,Regulator,1976-01-26,49,3,2018-09-16,San Francisco,37.76362,-122.51828,2025-02-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100043,Pole,2019-10-12,5,4,2024-08-01,San Francisco,37.79073,-122.39616,2025-03-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100044,Gas Valve,1998-02-08,27,1,2008-07-21,Central Valley,37.30437,-121.28754,2021-07-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100045,Pole,1996-04-16,29,5,2023-12-09,East Bay,37.89758,-121.70422,2025-07-31,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100046,Transformer,2005-11-12,19,1,2020-12-14,Sierra,38.79726,-120.41738,2022-07-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100047,Switchgear,2020-04-16,5,2,2022-12-30,North Bay,38.16383,-122.94611,2025-06-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100048,Regulator,1996-02-26,29,4,2017-03-15,Sierra,39.08993,-120.80689,2020-06-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100049,Regulator,1980-12-06,44,2,1986-11-26,East Bay,37.97987,-121.66395,2018-04-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100050,Pole,2012-08-26,12,2,2023-07-25,North Bay,38.3898,-122.70689,2024-03-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100051,Gas Valve,1984-09-18,40,2,1985-12-12,Central Valley,36.72972,-120.80364,2019-10-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100052,Substation Equipment,2021-11-04,3,5,2024-03-20,North Bay,38.18043,-123.1812,2025-08-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100053,Switchgear,1987-04-01,38,3,1997-01-24,South Bay,37.02051,-121.60251,2000-12-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100054,Feeder,1990-10-11,34,3,2015-06-20,San Francisco,37.75889,-122.46895,2025-06-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100055,Substation Equipment,1983-01-24,42,3,2023-08-09,East Bay,37.90591,-122.14467,2024-10-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100056,Regulator,2012-09-14,12,5,2015-11-29,East Bay,37.60141,-122.07212,2022-01-11,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100057,Pole,2008-09-01,16,4,2013-01-18,Peninsula,37.54611,-122.14921,2019-10-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100058,Transformer,1984-03-05,41,4,2012-03-21,Peninsula,37.44271,-122.38367,2013-05-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100059,Transformer,2010-01-11,15,5,2022-03-16,Central Valley,36.54152,-121.47154,2023-10-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100060,Switchgear,1981-09-02,43,2,1990-07-11,Peninsula,37.59977,-122.12492,2017-12-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100061,Transformer,1981-09-15,43,5,1983-03-25,San Francisco,37.76467,-122.46775,2016-02-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100062,Transformer,2003-06-20,22,5,2017-05-02,Sierra,39.56899,-120.07625,2020-11-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100063,Pole,2019-05-15,6,5,2025-01-01,Peninsula,37.31868,-122.11899,2025-03-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100064,Pole,2019-09-09,5,5,2021-02-04,Peninsula,37.43353,-122.25265,2022-01-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100065,Switchgear,1983-07-04,42,4,2003-08-11,Sierra,39.17093,-120.27366,2015-02-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100066,Transformer,2017-04-14,8,1,2019-12-11,San Francisco,37.81813,-122.37741,2023-11-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100067,Gas Valve,1982-03-23,43,3,1988-11-28,Central Valley,37.15139,-120.7721,2009-10-31,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100068,Pole,2004-04-24,21,1,2013-07-08,San Francisco,37.74032,-122.50991,2017-01-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100069,Pole,2017-04-06,8,4,2023-04-26,East Bay,37.77056,-121.78492,2025-01-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100070,Gas Valve,2001-04-12,24,3,2005-09-08,East Bay,37.72828,-122.05872,2016-02-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100071,Gas Valve,1976-06-18,49,4,2016-04-01,Central Valley,37.95485,-120.52201,2016-07-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100072,Transformer,1999-06-17,26,5,2012-12-25,Central Valley,37.78373,-120.80046,2019-10-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100073,Transformer,1982-04-04,43,1,1994-06-11,Peninsula,37.60799,-122.28539,2000-11-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100074,Transformer,1986-05-25,39,2,2023-06-11,San Francisco,37.74393,-122.38029,2025-05-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100075,Substation Equipment,2018-05-13,7,2,2024-08-26,East Bay,37.58994,-121.66319,2024-10-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100076,Feeder,2006-12-11,18,1,2013-06-23,Peninsula,37.61651,-122.14224,2024-09-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100077,Substation Equipment,2019-03-14,6,1,2022-06-27,North Bay,38.56957,-122.31988,2025-05-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100078,Regulator,1980-05-03,45,5,2019-01-07,North Bay,38.48509,-122.37215,2019-09-16,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100079,Transformer,1991-02-15,34,1,2006-08-11,South Bay,37.03862,-121.61464,2015-02-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100080,Switchgear,1992-10-05,32,1,2016-09-01,Peninsula,37.4901,-122.29567,2019-06-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100081,Pole,1982-03-09,43,1,1990-08-01,Central Valley,36.86073,-121.32444,2020-11-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100082,Gas Valve,2015-05-17,10,2,2018-11-24,South Bay,37.43015,-122.25318,2021-06-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100083,Feeder,2018-03-09,7,3,2018-08-30,East Bay,37.69202,-122.12287,2023-08-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100084,Transformer,1975-01-24,50,5,2024-10-09,San Francisco,37.81457,-122.43923,2025-08-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100085,Feeder,2005-04-15,20,1,2020-04-28,South Bay,37.16968,-121.68187,2022-11-16,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100086,Regulator,2002-11-16,22,5,2021-11-13,Sierra,39.63871,-120.23428,2024-04-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100087,Feeder,1994-12-07,30,2,2010-07-30,East Bay,37.67123,-122.33597,2023-11-16,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100088,Substation Equipment,2020-12-21,4,2,2023-07-07,South Bay,37.16628,-122.17496,2025-01-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100089,Transformer,1983-01-03,42,3,2002-08-08,San Francisco,37.73304,-122.49959,2022-01-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100090,Transformer,1980-11-27,44,4,2020-03-24,South Bay,37.33117,-121.91334,2021-12-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100091,Regulator,1993-10-08,31,3,1996-01-27,Peninsula,37.61335,-122.1937,2002-08-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100092,Pole,1985-05-15,40,1,1997-06-13,East Bay,37.61402,-121.96412,1999-03-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100093,Gas Valve,2010-06-08,15,1,2017-08-25,San Francisco,37.78658,-122.47721,2022-02-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100094,Gas Valve,1986-01-11,39,4,1990-01-24,South Bay,37.2195,-121.95376,2018-08-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100095,Gas Valve,2007-11-07,17,2,2019-06-11,East Bay,37.66639,-121.89205,2020-01-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100096,Transformer,1980-05-27,45,1,1987-02-17,Sierra,38.63021,-120.65157,1999-08-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100097,Feeder,1977-07-01,48,3,2005-01-24,East Bay,37.92295,-121.92602,2021-04-26,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100098,Pole,1980-10-17,44,2,2010-07-25,Central Valley,37.12012,-120.90511,2012-12-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100099,Substation Equipment,2013-07-25,12,3,2024-12-02,Central Valley,36.75133,-121.43753,2025-07-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100100,Gas Valve,2021-10-21,3,2,2022-03-14,South Bay,37.37566,-122.10701,2024-05-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100101,Substation Equipment,2020-09-21,4,4,2023-10-31,Sierra,38.86924,-120.52162,2025-02-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100102,Feeder,2007-10-27,17,1,2023-06-28,South Bay,37.24069,-122.05282,2023-09-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100103,Substation Equipment,2020-11-23,4,2,2021-08-24,Peninsula,37.39393,-122.35926,2023-12-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100104,Transformer,1983-11-12,41,1,2001-01-11,North Bay,38.26198,-122.4312,2023-02-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100105,Switchgear,2010-01-21,15,1,2024-05-17,Sierra,38.88939,-120.26478,2025-02-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100106,Regulator,1990-08-09,35,1,2011-05-17,Peninsula,37.60381,-122.42131,2024-12-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100107,Transformer,2022-09-18,2,1,2024-06-17,Sierra,39.43389,-120.47046,2025-02-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100108,Regulator,2022-08-09,2,1,2023-08-15,North Bay,38.21495,-122.92041,2023-12-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100109,Regulator,1988-04-24,37,4,2010-09-28,South Bay,37.22646,-122.06839,2015-06-25,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100110,Switchgear,1979-08-22,45,3,2014-04-26,Sierra,39.56732,-120.03669,2024-03-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100111,Feeder,2015-11-07,9,1,2022-11-06,North Bay,38.44198,-122.34855,2024-02-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100112,Gas Valve,1991-11-24,33,3,2020-01-12,South Bay,37.20623,-121.78355,2022-03-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100113,Pole,1975-08-02,50,4,1999-12-21,Peninsula,37.62582,-122.19675,2020-07-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100114,Transformer,2019-04-22,6,4,2022-11-03,Central Valley,36.67122,-121.19607,2024-02-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100115,Feeder,1993-08-15,32,4,1999-03-18,Central Valley,36.85952,-121.32915,2006-11-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100116,Pole,1994-02-16,31,1,2007-05-23,Peninsula,37.59975,-122.15386,2025-06-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100117,Transformer,2007-08-09,18,4,2012-07-31,East Bay,37.95635,-122.35027,2021-07-16,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100118,Transformer,2012-02-05,13,5,2018-03-29,South Bay,37.20242,-122.01662,2020-10-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100119,Pole,2013-11-17,11,3,2024-02-05,San Francisco,37.79242,-122.51811,2025-05-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100120,Regulator,1998-04-16,27,4,2016-03-28,North Bay,38.27957,-122.90789,2019-09-02,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100121,Pole,1975-08-22,49,4,2012-04-13,North Bay,38.41204,-122.41684,2018-12-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100122,Regulator,1984-07-12,41,4,1998-12-24,San Francisco,37.77828,-122.37551,1999-09-02,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100123,Substation Equipment,1996-01-11,29,3,2014-03-02,North Bay,38.49832,-122.36411,2020-04-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100124,Pole,2020-01-24,5,3,2021-10-03,North Bay,38.52406,-122.89788,2025-04-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100125,Transformer,2000-07-28,25,5,2004-04-09,San Francisco,37.81477,-122.45964,2011-09-11,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100126,Switchgear,1992-01-09,33,1,1994-08-11,San Francisco,37.81191,-122.42192,1997-03-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100127,Regulator,1993-11-05,31,2,2006-01-14,Sierra,39.06225,-120.18149,2024-10-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100128,Feeder,1995-04-25,30,3,2014-10-10,East Bay,37.76031,-121.81729,2023-06-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100129,Substation Equipment,2015-07-18,10,5,2018-02-05,North Bay,38.25679,-122.75651,2021-08-30,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100130,Transformer,1978-12-14,46,4,1991-08-28,Central Valley,37.56244,-121.33345,2002-03-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100131,Substation Equipment,1993-08-02,32,5,1999-07-27,Central Valley,37.94128,-121.21189,2009-11-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100132,Switchgear,2001-06-10,24,3,2013-03-09,South Bay,37.12079,-121.67887,2020-09-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100133,Regulator,2016-05-13,9,2,2020-01-05,Central Valley,37.3679,-121.25824,2021-09-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100134,Feeder,2017-07-04,8,2,2024-12-28,East Bay,37.77505,-121.84862,2025-04-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100135,Transformer,1988-09-26,36,4,2013-09-12,South Bay,37.01653,-121.69162,2016-06-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100136,Switchgear,1996-08-14,29,2,2021-06-18,South Bay,37.21656,-122.17862,2022-08-11,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100137,Pole,1980-03-11,45,5,1984-07-20,South Bay,37.15592,-122.09151,2022-08-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100138,Pole,1998-05-26,27,5,2007-09-27,San Francisco,37.76704,-122.44249,2019-02-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100139,Regulator,2001-07-14,24,5,2011-03-24,North Bay,38.19693,-123.00911,2021-02-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100140,Gas Valve,1996-01-16,29,3,2022-01-28,East Bay,37.89353,-122.3736,2023-07-02,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100141,Pole,2018-09-17,6,2,2020-01-09,San Francisco,37.7949,-122.44141,2024-12-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100142,Pole,1999-07-21,26,4,2019-03-13,San Francisco,37.7498,-122.37864,2024-06-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100143,Substation Equipment,1976-03-02,49,4,2018-11-25,San Francisco,37.81074,-122.44215,2024-06-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100144,Switchgear,1975-02-13,50,5,2017-05-23,Peninsula,37.31758,-122.32192,2023-05-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100145,Pole,1981-04-05,44,2,2004-12-18,East Bay,37.68859,-122.19619,2009-11-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100146,Transformer,2021-12-21,3,4,2022-06-26,Central Valley,37.87019,-120.85584,2024-02-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100147,Substation Equipment,1977-01-26,48,2,1998-03-18,Peninsula,37.63897,-122.44319,2018-02-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100148,Transformer,2016-12-10,8,2,2024-03-29,Peninsula,37.47091,-122.48986,2025-02-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100149,Feeder,2015-07-23,10,1,2016-12-11,San Francisco,37.75406,-122.50427,2017-01-30,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100150,Gas Valve,2008-10-07,16,4,2014-11-22,North Bay,38.13324,-122.53057,2015-05-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100151,Substation Equipment,2013-01-01,12,5,2020-01-15,South Bay,37.28751,-121.83885,2024-04-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100152,Gas Valve,1995-11-27,29,2,2017-07-01,East Bay,37.63575,-121.60212,2017-11-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100153,Pole,2010-04-01,15,4,2025-02-02,Peninsula,37.38449,-122.41318,2025-06-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100154,Transformer,1976-04-16,49,4,1983-11-03,San Francisco,37.79439,-122.51125,2011-07-25,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100155,Pole,2017-07-12,8,2,2023-05-01,San Francisco,37.8053,-122.42854,2024-06-26,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100156,Regulator,1996-12-14,28,3,2015-01-02,North Bay,38.56182,-122.73457,2024-03-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100157,Transformer,1993-12-28,31,5,1997-04-15,South Bay,37.26636,-121.95358,1998-07-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100158,Switchgear,1987-05-25,38,2,1998-01-08,South Bay,37.4529,-122.25725,2015-06-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100159,Pole,1991-05-04,34,5,2013-11-06,East Bay,37.81663,-121.92025,2014-04-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100160,Pole,1989-08-14,36,1,2016-07-28,Peninsula,37.41116,-122.18836,2017-03-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100161,Switchgear,1978-04-01,47,5,1991-04-03,South Bay,37.39649,-121.92151,1993-07-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100162,Transformer,2020-01-06,5,4,2022-10-22,East Bay,37.84108,-122.18507,2023-04-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100163,Gas Valve,2021-02-03,4,2,2023-03-19,Central Valley,37.67712,-120.93091,2023-12-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100164,Pole,2016-09-24,8,4,2017-05-12,South Bay,37.46523,-121.60999,2024-09-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100165,Regulator,2021-07-27,4,3,2023-09-14,San Francisco,37.74037,-122.42356,2025-03-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100166,Pole,1981-01-03,44,3,1984-11-26,East Bay,37.75372,-121.79548,2000-08-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100167,Switchgear,1982-09-25,42,2,2000-01-22,San Francisco,37.76366,-122.38605,2016-07-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100168,Substation Equipment,1994-07-03,31,1,2016-01-06,San Francisco,37.81418,-122.42098,2016-12-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100169,Gas Valve,2009-08-07,16,3,2018-01-15,South Bay,37.39353,-121.61592,2021-12-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100170,Switchgear,1976-11-14,48,2,2013-06-16,Central Valley,36.97868,-121.48636,2016-03-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100171,Switchgear,1977-08-03,48,1,2000-12-01,North Bay,38.34404,-123.13087,2019-09-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100172,Regulator,1979-10-11,45,3,1992-04-06,South Bay,37.15758,-122.10071,2024-03-18,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100173,Feeder,1977-05-24,48,3,2002-05-24,San Francisco,37.72856,-122.37724,2015-05-11,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100174,Transformer,2021-10-26,3,1,2022-02-27,San Francisco,37.71124,-122.43738,2022-05-18,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100175,Pole,1981-08-23,43,4,2016-09-27,Sierra,38.98767,-121.08456,2020-02-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100176,Substation Equipment,1991-07-27,34,4,1997-10-17,East Bay,37.86468,-121.61796,2025-02-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100177,Pole,1975-12-10,49,2,1997-05-25,East Bay,37.92067,-122.19486,2014-07-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100178,Substation Equipment,1995-08-12,30,5,1999-06-06,San Francisco,37.74151,-122.37132,2019-05-30,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100179,Pole,2000-03-08,25,4,2003-05-12,Peninsula,37.38268,-122.15515,2011-05-31,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100180,Transformer,2005-09-18,19,3,2009-08-04,Central Valley,36.7622,-121.19229,2021-06-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100181,Transformer,1979-05-20,46,1,1998-05-06,East Bay,37.89378,-121.67662,2001-12-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100182,Switchgear,2006-12-15,18,2,2012-06-24,North Bay,38.33082,-122.55774,2016-08-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100183,Switchgear,2004-10-22,20,2,2021-11-09,South Bay,37.27731,-121.96883,2024-04-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100184,Substation Equipment,2017-02-25,8,3,2020-09-20,Peninsula,37.55024,-122.45762,2023-10-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100185,Feeder,1992-06-09,33,3,2001-08-24,San Francisco,37.70619,-122.42171,2011-09-16,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100186,Pole,1986-04-08,39,2,1999-02-28,East Bay,37.70931,-121.81606,2005-08-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100187,Pole,1995-02-13,30,3,2006-06-04,Peninsula,37.47846,-122.42905,2023-10-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100188,Feeder,1989-11-26,35,1,2019-06-26,Peninsula,37.69342,-122.30618,2021-08-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100189,Transformer,1981-01-16,44,2,2019-01-08,East Bay,37.85089,-122.15184,2021-01-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100190,Gas Valve,1977-05-08,48,1,1982-02-22,East Bay,37.59693,-121.96213,1988-08-18,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100191,Feeder,2012-04-03,13,3,2024-01-10,South Bay,37.00575,-122.24774,2024-04-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100192,Pole,2003-10-09,21,1,2006-06-01,Sierra,39.06656,-120.97357,2013-04-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100193,Feeder,2020-10-12,4,2,2021-04-06,Central Valley,36.62174,-120.7143,2022-12-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100194,Gas Valve,1984-01-07,41,3,1986-01-02,San Francisco,37.7961,-122.44251,2021-02-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100195,Regulator,2016-04-27,9,1,2020-04-06,Peninsula,37.50962,-122.22296,2023-06-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100196,Regulator,1998-03-20,27,3,2001-12-25,East Bay,37.83133,-121.66407,2005-05-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100197,Transformer,2006-09-16,18,1,2016-02-19,South Bay,37.14342,-122.26108,2019-01-02,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100198,Substation Equipment,2000-11-18,24,2,2005-03-30,North Bay,38.10844,-122.88848,2018-09-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100199,Pole,2000-12-09,24,4,2013-12-02,Central Valley,36.53737,-121.47617,2015-11-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100200,Gas Valve,2001-01-10,24,5,2017-04-28,Central Valley,36.96494,-121.13568,2022-03-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100201,Switchgear,1976-06-21,49,2,2011-10-19,East Bay,37.81495,-122.19616,2014-11-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100202,Switchgear,1988-01-14,37,2,2007-04-26,Central Valley,37.99957,-120.81508,2009-06-18,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100203,Substation Equipment,1980-07-19,45,3,2001-06-30,North Bay,38.15348,-122.4341,2023-12-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100204,Pole,1983-01-02,42,5,1989-09-01,Sierra,39.57539,-120.42875,1997-09-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100205,Substation Equipment,2000-02-19,25,5,2017-01-15,Central Valley,37.75819,-120.59412,2025-05-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100206,Feeder,1985-03-12,40,3,1992-09-22,Central Valley,36.63604,-120.65697,2015-07-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100207,Pole,1979-02-13,46,4,1997-02-04,Peninsula,37.60191,-122.49859,2007-04-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100208,Pole,1977-08-11,48,1,2012-09-06,San Francisco,37.70483,-122.39791,2016-01-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100209,Regulator,2014-12-27,10,2,2022-06-10,North Bay,38.20016,-122.46861,2023-03-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100210,Substation Equipment,1989-10-13,35,5,1998-11-08,Sierra,39.02098,-121.22875,2001-05-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100211,Switchgear,1986-10-07,38,1,2004-12-20,Sierra,39.61206,-120.5702,2023-03-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100212,Pole,1999-06-04,26,2,2010-10-11,Peninsula,37.46059,-122.10236,2013-08-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100213,Substation Equipment,1987-01-18,38,1,2017-04-12,Central Valley,37.05581,-120.51722,2022-09-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100214,Gas Valve,1982-07-20,43,4,2007-07-01,Sierra,39.1225,-121.01109,2021-07-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100215,Regulator,1994-11-14,30,3,2021-04-11,Sierra,38.93204,-120.40605,2021-12-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100216,Switchgear,1999-11-12,25,4,2022-09-22,South Bay,37.39846,-121.86005,2024-05-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100217,Pole,1976-01-20,49,4,2018-01-25,East Bay,37.94708,-122.33274,2022-06-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100218,Switchgear,2014-08-27,10,2,2024-01-06,South Bay,37.26359,-122.217,2024-10-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100219,Switchgear,1981-02-05,44,3,2000-09-07,East Bay,37.83478,-121.98134,2004-11-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100220,Transformer,2003-09-17,21,1,2004-11-23,San Francisco,37.78896,-122.41001,2013-03-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100221,Pole,1980-12-11,44,5,1984-10-21,Central Valley,36.89835,-120.77495,2021-03-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100222,Substation Equipment,2007-07-21,18,2,2008-05-27,North Bay,38.27026,-122.3873,2010-09-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100223,Transformer,2014-12-23,10,1,2017-06-03,Sierra,39.4088,-120.8165,2023-01-26,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100224,Switchgear,1993-03-22,32,2,1996-06-07,South Bay,37.22965,-121.79025,1997-05-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100225,Gas Valve,2014-05-06,11,3,2024-09-02,Sierra,38.50576,-120.495,2024-10-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100226,Gas Valve,2004-03-09,21,5,2025-02-02,Peninsula,37.46086,-122.45924,2025-06-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100227,Pole,2012-05-20,13,5,2017-12-24,East Bay,37.98856,-122.18031,2024-02-26,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100228,Gas Valve,1977-04-06,48,4,1992-01-01,San Francisco,37.79077,-122.37012,2018-12-03,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100229,Gas Valve,2018-06-13,7,2,2021-09-07,Central Valley,37.92065,-121.1134,2025-04-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100230,Substation Equipment,2008-01-21,17,3,2018-06-28,North Bay,38.68452,-122.35703,2020-04-30,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100231,Feeder,2012-12-04,12,3,2022-01-15,Peninsula,37.59092,-122.12132,2024-03-30,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100232,Substation Equipment,1998-05-13,27,3,2024-07-14,Central Valley,37.38062,-121.30388,2025-07-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100233,Gas Valve,1996-02-15,29,2,2004-04-28,South Bay,37.37823,-122.14333,2006-08-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100234,Regulator,1978-05-27,47,5,2001-06-06,Peninsula,37.42443,-122.35619,2020-07-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100235,Regulator,2012-11-11,12,1,2013-11-22,San Francisco,37.77521,-122.49354,2019-01-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100236,Pole,1993-10-21,31,4,2012-10-24,South Bay,37.03884,-122.01746,2016-04-20,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100237,Gas Valve,1978-03-16,47,2,1982-07-26,Peninsula,37.40045,-122.43773,1996-06-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100238,Transformer,1975-10-12,49,3,1985-08-05,North Bay,38.69664,-122.50166,1991-01-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100239,Gas Valve,2009-04-14,16,5,2016-04-24,Peninsula,37.41943,-122.1081,2022-11-11,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100240,Pole,1988-06-20,37,4,1995-11-09,Peninsula,37.44244,-122.4947,1999-11-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100241,Transformer,1990-12-05,34,4,1995-07-01,South Bay,37.14073,-122.21727,2011-01-31,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100242,Regulator,1984-11-26,40,3,2003-03-17,North Bay,38.14529,-122.96227,2009-12-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100243,Gas Valve,1975-01-21,50,5,2006-10-04,Sierra,38.70337,-120.57563,2021-03-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100244,Regulator,2012-08-20,12,5,2023-12-18,Peninsula,37.49865,-122.46729,2025-02-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100245,Pole,1975-01-02,50,5,1977-07-16,South Bay,37.05789,-121.72816,1986-03-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100246,Pole,1990-03-02,35,1,1990-12-29,East Bay,37.62573,-122.10249,2000-01-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100247,Feeder,2017-04-05,8,4,2019-10-09,Peninsula,37.44372,-122.15892,2021-03-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100248,Feeder,2016-09-21,8,4,2023-11-15,Peninsula,37.49635,-122.10862,2025-05-04,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100249,Feeder,1994-02-10,31,1,2015-10-28,South Bay,37.11618,-121.6783,2024-06-01,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100250,Feeder,1975-07-28,50,4,2017-08-01,Central Valley,36.9324,-120.91177,2022-07-30,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100251,Regulator,2016-08-06,9,2,2018-01-19,North Bay,38.43437,-122.51325,2024-06-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100252,Pole,2016-01-04,9,3,2024-09-08,San Francisco,37.78413,-122.51468,2025-04-15,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100253,Substation Equipment,1991-12-02,33,3,2020-09-18,Central Valley,36.89235,-121.09585,2022-05-21,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100254,Regulator,2002-11-26,22,5,2009-02-15,Peninsula,37.69365,-122.21515,2016-02-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100255,Regulator,1988-02-17,37,1,1996-01-07,San Francisco,37.81117,-122.47419,2012-03-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100256,Pole,2022-04-06,3,3,2023-01-27,San Francisco,37.78716,-122.51381,2023-04-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100257,Gas Valve,2013-04-13,12,5,2024-02-01,East Bay,37.98965,-122.03508,2024-05-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100258,Substation Equipment,2008-12-01,16,1,2018-12-30,East Bay,37.89266,-121.79658,2022-04-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100259,Pole,2011-05-26,14,2,2020-06-14,Central Valley,37.42419,-120.66718,2024-02-27,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100260,Feeder,1979-10-06,45,2,1981-07-06,Peninsula,37.59773,-122.32643,1983-03-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100261,Transformer,1981-10-06,43,3,1988-05-25,North Bay,38.37131,-122.42174,2006-06-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100262,Transformer,1976-01-05,49,1,1982-05-15,Central Valley,37.90658,-120.66075,2016-09-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100263,Transformer,1979-10-25,45,3,1989-01-10,Central Valley,36.90249,-120.76253,2006-11-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100264,Substation Equipment,2009-11-03,15,4,2012-07-07,Sierra,39.31182,-120.80951,2024-04-23,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100265,Pole,1988-02-02,37,1,2024-10-14,South Bay,37.27411,-121.65571,2025-03-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100266,Regulator,1980-11-21,44,3,2002-07-26,Sierra,38.79895,-120.5892,2008-08-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100267,Pole,1981-11-07,43,3,1996-06-09,North Bay,38.57455,-122.39174,1999-10-25,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100268,Switchgear,1991-01-12,34,3,2003-12-25,San Francisco,37.80305,-122.45197,2023-06-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100269,Regulator,1998-06-25,27,5,2021-05-08,North Bay,38.12373,-122.9136,2022-02-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100270,Substation Equipment,1993-10-24,31,1,2012-08-10,East Bay,37.89281,-122.3084,2016-05-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100271,Switchgear,2008-02-12,17,4,2024-03-11,North Bay,38.21948,-122.38011,2024-06-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100272,Feeder,2011-04-23,14,1,2024-06-19,North Bay,38.05286,-122.73558,2025-02-07,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100273,Gas Valve,1985-07-01,40,5,1994-11-01,Sierra,39.50529,-120.71328,2023-11-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100274,Substation Equipment,1978-01-12,47,4,1986-11-21,San Francisco,37.72552,-122.37436,1998-03-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100275,Regulator,1986-08-19,38,3,2024-03-20,East Bay,37.88557,-122.04366,2025-01-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100276,Gas Valve,2011-03-10,14,2,2016-08-26,Peninsula,37.68268,-122.23721,2021-03-29,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100277,Pole,1982-11-25,42,1,2005-03-01,East Bay,37.98192,-121.93264,2010-04-13,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100278,Regulator,2010-02-21,15,3,2018-05-23,Sierra,39.39423,-121.24056,2021-12-10,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100279,Switchgear,2000-12-03,24,4,2002-04-29,North Bay,38.63213,-122.88486,2010-11-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100280,Pole,1994-05-14,31,5,2017-02-13,San Francisco,37.80614,-122.40082,2019-04-26,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100281,Switchgear,2015-04-15,10,2,2021-07-09,South Bay,37.04151,-121.81471,2025-04-19,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100282,Substation Equipment,2019-10-21,5,1,2022-01-11,Peninsula,37.64313,-122.49663,2024-10-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100283,Gas Valve,2008-03-28,17,4,2023-05-12,Peninsula,37.43538,-122.2796,2024-07-25,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100284,Regulator,1995-03-15,30,4,2007-01-05,Peninsula,37.51058,-122.23555,2018-03-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100285,Pole,1983-06-15,42,2,2006-07-02,Peninsula,37.48366,-122.40404,2007-10-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100286,Gas Valve,1994-12-27,30,5,2002-03-12,South Bay,37.35689,-122.2391,2005-05-22,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100287,Pole,1990-12-11,34,5,2014-08-22,Central Valley,37.35438,-120.80077,2019-03-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100288,Pole,1990-06-07,35,3,2023-05-24,San Francisco,37.78612,-122.38617,2023-07-09,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100289,Pole,2017-02-07,8,4,2019-01-26,North Bay,38.68556,-122.85394,2023-08-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100290,Substation Equipment,1994-12-10,30,4,2007-07-01,South Bay,37.44588,-121.62466,2009-09-25,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100291,Transformer,2015-02-09,10,2,2019-09-26,South Bay,37.04164,-121.66183,2024-07-11,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100292,Transformer,1975-07-28,50,4,1995-10-20,East Bay,37.52629,-122.31523,2010-08-14,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100293,Regulator,1993-08-01,32,2,2005-05-24,Peninsula,37.66895,-122.30983,2016-07-24,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100294,Regulator,2000-01-24,25,2,2019-08-17,Peninsula,37.50351,-122.33853,2025-01-06,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100295,Feeder,2012-12-21,12,4,2018-05-16,Central Valley,36.85489,-121.09692,2020-09-05,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100296,Regulator,2016-11-23,8,5,2019-09-25,Central Valley,36.52175,-120.65197,2020-08-12,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100297,Pole,2016-02-15,9,4,2019-11-28,Central Valley,37.64928,-121.19909,2022-04-17,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100298,Regulator,2019-02-14,6,2,2023-11-18,San Francisco,37.75214,-122.4733,2025-03-11,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100299,Regulator,2015-03-09,10,4,2020-11-14,Central Valley,36.94114,-121.2848,2021-07-28,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100300,Transformer,2014-07-17,11,2,2024-11-04,East Bay,37.52181,-121.91874,2025-05-08,Electric,,,,,,,N,,,,Unknown,,,,,0,,
+A100301,Regulator Station,2007-05-04,18,1,2016-03-02,North Bay,38.48753,-122.94247,2017-10-02,Gas,Transmission,,Steel,None/Unknown,SAW,300.0,N,2.0,2.0,CPZ-445,Adequate,2024-01-28,-871.0,,,0,4.0,6.0
+A100302,Gas Transmission Pipeline,2010-02-20,15,4,2012-01-13,South Bay,37.35973,-122.00383,2012-02-18,Gas,Transmission,12.0,Steel,Asphalt Enamel,ERW,60.0,Y,2.0,2.0,CPZ-909,Unknown,2017-09-06,-1142.0,2020-06-10,5.0,1,5.0,7.0
+A100303,Anode Bed,1994-06-17,31,4,2004-01-25,San Francisco,37.74118,-122.40335,2006-06-13,Gas,Transmission,,Steel,None/Unknown,SAW,60.0,N,4.0,5.0,CPZ-753,Underprotected,2022-03-20,-967.0,,,3,10.0,10.0
+A100304,Service Line/Riser,2002-09-02,22,2,2019-04-11,East Bay,37.69902,-121.8096,2021-08-27,Gas,Distribution,4.0,Wrought Iron,Tape Wrap,,60.0,N,4.0,1.0,CPZ-840,Adequate,2016-07-10,-944.0,,,3,4.0,8.0
+A100305,Gas Transmission Pipeline,1979-10-03,45,3,1980-08-28,San Francisco,37.76379,-122.43491,1981-09-22,Gas,Transmission,8.0,Steel,Asphalt Enamel,ERW,1000.0,N,4.0,2.0,CPZ-657,Adequate,1988-09-19,-799.0,1992-02-16,5.0,1,6.0,8.0
+A100306,Anode Bed,1956-03-15,69,2,1958-06-01,East Bay,37.86223,-121.91118,1959-03-20,Gas,Transmission,,Steel,Tape Wrap,SAW,500.0,N,1.0,1.0,CPZ-732,Adequate,1989-01-20,-993.0,,,2,6.0,7.0
+A100307,Gas Distribution Main,1956-09-13,68,1,2006-01-24,North Bay,38.25325,-122.99456,2008-02-03,Gas,Distribution,36.0,Wrought Iron,FBE,,100.0,N,4.0,1.0,CPZ-868,Adequate,1994-11-06,-809.0,,,0,3.0,6.0
+A100308,Pipeline Casing,2008-02-23,17,2,2016-10-26,North Bay,38.06447,-122.80967,2018-10-10,Gas,Transmission,8.0,Steel,FBE,ERW,720.0,N,3.0,2.0,CPZ-771,Underprotected,2015-09-04,-925.0,2022-05-08,2.0,0,3.0,6.0
+A100309,CP Rectifier,1976-10-13,48,4,1982-09-05,Peninsula,37.47033,-122.3751,1984-11-02,Gas,Transmission,,Steel,Coal Tar,Unknown,1000.0,Y,4.0,4.0,CPZ-411,Adequate,1980-04-25,-807.0,,,0,9.0,10.0
+A100310,CP Rectifier,1998-09-04,26,5,2015-07-22,Peninsula,37.67766,-122.29927,2016-04-07,Gas,Transmission,,Steel,None/Unknown,SAW,60.0,N,2.0,2.0,CPZ-429,Adequate,2001-08-08,-987.0,,,1,6.0,7.0
+A100311,Valve Station,1957-04-09,68,5,1978-04-26,North Bay,38.2221,-122.82666,1978-08-21,Gas,Transmission,,Steel,None/Unknown,SAW,60.0,N,2.0,5.0,CPZ-238,Underprotected,2001-09-08,-939.0,,,1,10.0,10.0
+A100312,Test Station,1987-12-27,37,5,2010-02-13,Central Valley,37.22455,-120.51444,2011-02-26,Gas,Transmission,,Steel,Asphalt Enamel,Seamless,720.0,N,1.0,5.0,CPZ-723,Unknown,2004-05-22,-660.0,,,2,10.0,10.0
+A100313,Gas Distribution Main,2001-08-12,24,4,2016-02-04,Peninsula,37.34825,-122.16946,2017-03-07,Gas,Transmission,8.0,Wrought Iron,Tape Wrap,,60.0,N,2.0,4.0,CPZ-925,Adequate,2021-03-19,-802.0,,,1,10.0,10.0
+A100314,Regulator Station,2003-06-03,22,3,2006-06-29,Peninsula,37.43711,-122.37835,2007-04-26,Gas,Transmission,,Steel,None/Unknown,SAW,60.0,N,1.0,5.0,CPZ-497,Adequate,2014-11-10,-725.0,,,1,10.0,10.0
+A100315,CP Rectifier,2012-05-27,13,4,2025-05-09,Sierra,39.55055,-120.63645,2027-01-14,Gas,Transmission,,Steel,Tape Wrap,Seamless,1000.0,N,3.0,3.0,CPZ-149,Adequate,2013-11-06,-810.0,,,1,10.0,9.0
+A100316,Anode Bed,2016-09-02,8,4,2023-01-28,Central Valley,37.43736,-120.82531,2023-07-21,Gas,Transmission,,Steel,Tape Wrap,SAW,148.0,N,1.0,4.0,CPZ-616,Overprotected,2024-05-31,-977.0,,,3,9.0,10.0
+A100317,Launcher/Receiver,1956-06-24,69,4,1977-03-23,San Francisco,37.72331,-122.42841,1979-03-27,Gas,Transmission,,Steel,FBE,SAW,300.0,Y,4.0,3.0,CPZ-535,Adequate,1958-08-23,-758.0,2006-07-11,8.0,0,8.0,8.0
+A100318,Gas Transmission Pipeline,1989-09-06,35,5,1998-09-18,South Bay,37.00806,-121.8839,1999-08-24,Gas,Transmission,20.0,Steel,Asphalt Enamel,Seamless,300.0,N,1.0,4.0,CPZ-727,Adequate,2003-03-18,-1019.0,2003-12-01,5.0,0,7.0,7.0
+A100319,Test Station,2012-02-02,13,5,2022-02-13,Central Valley,36.72961,-120.80447,2024-05-02,Gas,Distribution,,Steel,Asphalt Enamel,SAW,60.0,N,2.0,2.0,CPZ-347,Unknown,2018-07-27,-783.0,,,0,4.0,7.0
+A100320,Test Station,1956-07-21,69,3,2005-12-12,North Bay,38.38807,-122.84994,2006-02-10,Gas,Transmission,,Steel,FBE,Seamless,1000.0,N,4.0,3.0,CPZ-290,Adequate,1982-11-25,-940.0,,,2,6.0,8.0
+A100321,CP Rectifier,2020-01-24,5,3,2024-10-18,Central Valley,36.95715,-121.10181,2025-04-22,Gas,Transmission,,Steel,Asphalt Enamel,Seamless,500.0,Y,4.0,4.0,CPZ-673,Adequate,2021-06-29,-774.0,,,1,8.0,10.0
+A100322,Gas Transmission Pipeline,1991-03-16,34,1,1997-03-08,Sierra,39.21181,-120.40079,1997-08-09,Gas,Transmission,20.0,Steel,Tape Wrap,ERW,500.0,N,3.0,3.0,CPZ-318,Adequate,1994-04-27,-931.0,2001-06-03,5.0,3,6.0,10.0
+A100323,Gas Distribution Main,1965-11-07,59,4,1982-04-23,Sierra,38.78903,-120.85351,1983-07-25,Gas,Distribution,6.0,Wrought Iron,Coal Tar,,30.0,Y,1.0,3.0,CPZ-133,Adequate,1986-07-03,-691.0,,,1,9.0,10.0
+A100324,Valve Station,1962-01-05,63,1,2003-09-24,East Bay,37.55295,-122.29528,2005-10-05,Gas,Distribution,,Steel,FBE,Seamless,30.0,N,2.0,2.0,CPZ-340,Underprotected,1993-08-23,-784.0,,,2,6.0,10.0
+A100325,Gas Distribution Main,1992-06-22,33,4,2008-04-20,South Bay,37.42325,-121.91272,2010-08-03,Gas,Transmission,8.0,Steel,FBE,ERW,60.0,N,3.0,2.0,CPZ-228,Adequate,1993-07-05,-933.0,,,3,6.0,7.0
+A100326,Service Line/Riser,2008-09-12,16,3,2023-01-25,Peninsula,37.42672,-122.35829,2023-07-07,Gas,Distribution,16.0,Steel,None/Unknown,SAW,100.0,N,1.0,3.0,CPZ-618,Underprotected,2024-03-13,-862.0,,,0,8.0,9.0
+A100327,Test Station,1996-08-28,28,1,2023-09-26,North Bay,38.23707,-122.70287,2025-11-27,Gas,Transmission,,Steel,None/Unknown,Seamless,500.0,N,1.0,2.0,CPZ-310,Underprotected,2016-10-29,-828.0,,,3,10.0,10.0
+A100328,Regulator Station,2004-01-09,21,1,2021-06-29,East Bay,37.50134,-121.60932,2023-04-30,Gas,Transmission,,Steel,Coal Tar,Seamless,300.0,Y,2.0,5.0,CPZ-203,Adequate,2006-09-02,-902.0,,,0,10.0,9.0
+A100329,Regulator Station,1971-05-14,54,1,1995-01-07,North Bay,38.20474,-122.73199,1996-07-21,Gas,Distribution,,Steel,None/Unknown,ERW,200.0,Y,3.0,3.0,CPZ-918,Overprotected,2000-01-13,-857.0,,,1,6.0,10.0
+A100330,Gas Transmission Pipeline,1966-02-20,59,1,2006-01-09,South Bay,37.40348,-122.02394,2008-06-14,Gas,Transmission,16.0,Steel,Tape Wrap,Seamless,148.0,N,4.0,2.0,CPZ-345,Unknown,2004-07-26,-973.0,1983-03-31,13.0,3,6.0,10.0
+A100331,Pipeline Casing,1989-07-06,36,4,2003-07-19,North Bay,38.42049,-122.42072,2003-10-23,Gas,Transmission,2.0,Steel,FBE,Unknown,300.0,N,2.0,3.0,CPZ-418,Adequate,2020-03-13,-1037.0,2010-02-27,0.0,2,6.0,7.0
+A100332,Regulator Station,1980-07-07,45,4,1982-11-10,South Bay,37.22532,-121.91657,1984-02-15,Gas,Distribution,,Steel,FBE,Seamless,60.0,N,2.0,1.0,CPZ-559,Adequate,1990-01-11,-927.0,,,1,3.0,4.0
+A100333,Test Station,1964-04-03,61,4,1968-06-01,Peninsula,37.67103,-122.2724,1969-12-30,Gas,Distribution,,Steel,Tape Wrap,ERW,60.0,N,2.0,5.0,CPZ-200,Unknown,1969-10-22,-739.0,,,3,10.0,10.0
+A100334,Anode Bed,1997-11-06,27,4,2017-05-27,East Bay,37.87093,-122.36114,2019-04-30,Gas,Distribution,,Steel,FBE,ERW,30.0,Y,2.0,5.0,CPZ-409,Adequate,2017-09-21,-818.0,,,2,10.0,10.0
+A100335,Regulator Station,1978-09-17,46,5,1987-04-05,San Francisco,37.71991,-122.39504,1987-05-07,Gas,Distribution,,Steel,None/Unknown,Seamless,200.0,N,1.0,4.0,CPZ-770,Adequate,2022-09-20,-999.0,,,0,6.0,8.0
+A100336,Regulator Station,2002-11-24,22,3,2021-12-02,San Francisco,37.77983,-122.50218,2023-07-06,Gas,Distribution,,Steel,None/Unknown,SAW,60.0,Y,3.0,1.0,CPZ-699,Adequate,2021-11-20,-823.0,,,0,6.0,7.0
+A100337,Test Station,1968-11-20,56,1,1989-12-26,Sierra,39.33557,-120.72757,1991-09-04,Gas,Transmission,,Steel,Asphalt Enamel,Seamless,720.0,N,1.0,4.0,CPZ-638,Underprotected,2017-01-02,-748.0,,,1,9.0,10.0
+A100338,CP Rectifier,1989-06-22,36,4,1997-09-19,San Francisco,37.76788,-122.50642,1998-06-16,Gas,Distribution,,Steel,FBE,ERW,200.0,N,2.0,3.0,CPZ-141,Adequate,2019-08-02,-773.0,,,0,7.0,7.0
+A100339,Test Station,1986-09-21,38,2,2021-09-04,Central Valley,37.0056,-120.57242,2023-02-13,Gas,Transmission,,Steel,None/Unknown,ERW,500.0,Y,3.0,5.0,CPZ-753,Adequate,1990-09-20,-854.0,,,1,10.0,10.0
+A100340,Anode Bed,1995-01-21,30,4,2014-01-23,Central Valley,37.62747,-121.42085,2016-02-05,Gas,Distribution,,Steel,FBE,SAW,148.0,N,1.0,1.0,CPZ-830,Unknown,2012-06-07,-874.0,,,0,3.0,4.0
+A100341,Valve Station,1998-11-08,26,1,2007-06-19,Sierra,39.59185,-121.13278,2007-11-25,Gas,Distribution,,Steel,Asphalt Enamel,Seamless,148.0,N,1.0,3.0,CPZ-764,Unknown,2011-12-05,-1041.0,,,0,4.0,7.0
+A100342,Regulator Station,1999-04-26,26,1,2004-12-09,Peninsula,37.52489,-122.4511,2006-08-02,Gas,Transmission,,Steel,Coal Tar,ERW,720.0,N,4.0,4.0,CPZ-821,Adequate,2008-10-07,-844.0,,,0,8.0,9.0
+A100343,Valve Station,2008-12-16,16,1,2018-03-02,San Francisco,37.75616,-122.39073,2018-06-15,Gas,Distribution,,Steel,Tape Wrap,Unknown,30.0,Y,1.0,1.0,CPZ-477,Adequate,2011-10-22,-897.0,,,3,5.0,8.0
+A100344,Test Station,2010-08-23,14,1,2020-04-08,North Bay,38.65235,-122.67604,2020-06-29,Gas,Distribution,,Steel,FBE,SAW,200.0,N,3.0,3.0,CPZ-457,Adequate,2015-10-20,-833.0,,,0,6.0,6.0
+A100345,Anode Bed,2019-06-02,6,2,2022-12-18,North Bay,38.26529,-122.59845,2023-12-06,Gas,Distribution,,Steel,Tape Wrap,Seamless,100.0,N,3.0,2.0,CPZ-647,Underprotected,2020-08-10,-892.0,,,1,7.0,8.0
+A100346,Pipeline Casing,1981-06-08,44,4,2006-10-19,East Bay,37.5161,-121.80418,2007-07-02,Gas,Transmission,10.0,Steel,Coal Tar,Seamless,500.0,N,3.0,4.0,CPZ-741,Adequate,2018-08-27,-1004.0,1999-01-03,3.0,2,8.0,10.0
+A100347,Gas Distribution Main,2014-02-28,11,5,2023-12-16,San Francisco,37.76512,-122.50932,2024-12-09,Gas,Distribution,16.0,PE,Coal Tar,,30.0,Y,4.0,5.0,CPZ-554,Underprotected,2018-03-21,-859.0,,,1,10.0,10.0
+A100348,Regulator Station,2021-04-23,4,4,2022-02-06,South Bay,37.05132,-121.81012,2023-10-26,Gas,Transmission,,Steel,Asphalt Enamel,ERW,300.0,N,2.0,2.0,CPZ-452,Underprotected,2023-01-10,-939.0,,,0,6.0,7.0
+A100349,Regulator Station,1974-03-15,51,3,1995-05-06,Sierra,39.45076,-120.62567,1997-02-21,Gas,Distribution,,Steel,Coal Tar,SAW,60.0,N,1.0,3.0,CPZ-886,Adequate,2015-05-02,-760.0,,,0,7.0,9.0
+A100350,Pipeline Casing,1997-10-22,27,2,2012-09-30,South Bay,37.20578,-121.96328,2012-12-09,Gas,Transmission,4.0,Steel,Coal Tar,ERW,300.0,Y,2.0,4.0,CPZ-545,Adequate,2023-10-04,-954.0,2015-01-15,0.0,1,8.0,10.0
+A100351,Valve Station,2008-03-08,17,3,2012-05-05,Central Valley,37.7683,-121.3131,2013-09-08,Gas,Transmission,,Steel,Coal Tar,SAW,1000.0,N,1.0,5.0,CPZ-599,Adequate,2018-11-13,-882.0,,,2,9.0,10.0
+A100352,Pipeline Casing,1973-04-08,52,3,2013-02-28,Peninsula,37.39464,-122.13327,2014-08-29,Gas,Transmission,6.0,Steel,None/Unknown,Seamless,148.0,N,2.0,4.0,CPZ-862,Adequate,2001-06-02,-880.0,1994-08-23,8.0,0,4.0,9.0
+A100353,Test Station,1984-10-14,40,1,2020-07-29,East Bay,37.65683,-122.36213,2021-05-29,Gas,Transmission,,Steel,Tape Wrap,SAW,300.0,Y,2.0,5.0,CPZ-309,Unknown,1986-03-08,-934.0,,,2,10.0,10.0
+A100354,Gas Distribution Main,2020-05-16,5,1,2021-09-27,Central Valley,36.85737,-120.69221,2023-02-15,Gas,Distribution,12.0,Steel,Asphalt Enamel,SAW,30.0,N,1.0,2.0,CPZ-371,Adequate,2023-11-05,-679.0,,,3,6.0,9.0
+A100355,Anode Bed,1969-12-16,55,4,2001-10-03,Central Valley,36.50832,-121.01509,2002-11-18,Gas,Distribution,,Steel,FBE,Seamless,100.0,N,3.0,3.0,CPZ-687,Adequate,1980-03-29,-908.0,,,0,4.0,6.0
+A100356,CP Rectifier,2012-08-13,12,2,2016-12-11,Central Valley,37.94451,-121.15817,2017-09-13,Gas,Distribution,,Steel,Coal Tar,SAW,60.0,N,2.0,5.0,CPZ-349,Underprotected,2018-06-02,-842.0,,,0,10.0,10.0
+A100357,Pipeline Casing,1988-10-12,36,4,2013-02-01,East Bay,37.60412,-122.04531,2015-02-20,Gas,Transmission,16.0,Steel,FBE,Seamless,500.0,Y,2.0,2.0,CPZ-713,Adequate,2021-10-10,-966.0,2021-09-08,2.0,2,7.0,7.0
+A100358,Anode Bed,2013-11-02,11,2,2014-06-03,North Bay,38.1337,-122.32926,2015-03-25,Gas,Distribution,,Steel,Coal Tar,SAW,60.0,N,2.0,2.0,CPZ-643,Adequate,2022-01-23,-810.0,,,0,7.0,7.0
+A100359,Test Station,1962-07-19,63,4,1986-03-03,Sierra,38.53029,-120.95302,1988-06-10,Gas,Distribution,,Steel,Tape Wrap,Seamless,30.0,Y,4.0,3.0,CPZ-194,Unknown,1978-08-12,-976.0,,,1,8.0,10.0
+A100360,Anode Bed,1960-01-08,65,2,2002-01-01,San Francisco,37.81916,-122.48217,2004-03-27,Gas,Distribution,,Steel,Asphalt Enamel,Seamless,30.0,N,1.0,5.0,CPZ-958,Underprotected,1994-07-10,-1025.0,,,3,9.0,10.0
+A100361,Valve Station,1957-12-03,67,1,2004-01-19,South Bay,37.05272,-122.13726,2005-08-21,Gas,Transmission,,Steel,None/Unknown,Unknown,720.0,N,3.0,2.0,CPZ-432,Overprotected,2015-03-30,-804.0,,,2,5.0,10.0
+A100362,Service Line/Riser,1979-01-22,46,5,1996-10-14,South Bay,37.14062,-122.04641,1998-08-16,Gas,Transmission,10.0,Cast Iron,Asphalt Enamel,,100.0,Y,4.0,3.0,CPZ-229,Adequate,1986-12-18,-1023.0,,,0,7.0,8.0
+A100363,Valve Station,1968-10-15,56,1,1970-12-21,Central Valley,37.39615,-121.20685,1972-02-02,Gas,Distribution,,Steel,None/Unknown,ERW,200.0,N,3.0,1.0,CPZ-275,Underprotected,1996-12-25,-924.0,,,2,6.0,10.0
+A100364,Valve Station,1994-04-19,31,3,2007-04-06,East Bay,37.9438,-122.38711,2008-09-09,Gas,Distribution,,Steel,None/Unknown,SAW,148.0,N,3.0,2.0,CPZ-568,Adequate,1998-03-17,-867.0,,,2,5.0,8.0
+A100365,Pipeline Casing,2010-12-02,14,3,2020-01-26,South Bay,37.02295,-121.8023,2022-01-21,Gas,Transmission,20.0,Steel,Coal Tar,Seamless,300.0,Y,2.0,2.0,CPZ-993,Underprotected,2017-10-18,-796.0,2019-03-03,3.0,0,9.0,10.0
+A100366,Service Line/Riser,2003-12-07,21,1,2005-09-10,Peninsula,37.44238,-122.12809,2007-11-05,Gas,Distribution,36.0,PE,Coal Tar,,60.0,Y,4.0,3.0,CPZ-445,Adequate,2013-09-18,-870.0,,,1,8.0,8.0
+A100367,Gas Distribution Main,2003-12-06,21,5,2013-10-02,Peninsula,37.34957,-122.26141,2014-04-28,Gas,Distribution,12.0,PE,Tape Wrap,,200.0,N,1.0,2.0,CPZ-877,Adequate,2012-08-03,-856.0,,,3,5.0,8.0
+A100368,Gas Distribution Main,2018-01-20,7,1,2022-11-19,East Bay,37.68179,-121.96803,2023-02-21,Gas,Transmission,6.0,Steel,Coal Tar,SAW,1000.0,Y,3.0,2.0,CPZ-294,Underprotected,2024-01-05,-1046.0,,,0,8.0,8.0
+A100369,Gas Distribution Main,2016-06-18,9,2,2024-07-21,North Bay,38.4005,-122.60514,2025-02-04,Gas,Transmission,20.0,Wrought Iron,None/Unknown,,200.0,Y,4.0,1.0,CPZ-572,Adequate,2021-05-25,-968.0,,,3,4.0,9.0
+A100370,Gas Distribution Main,2012-10-18,12,2,2016-04-06,Sierra,39.04371,-120.08794,2017-01-16,Gas,Transmission,8.0,PE,Coal Tar,,30.0,N,3.0,5.0,CPZ-413,Adequate,2016-06-06,-840.0,,,0,10.0,9.0
+A100371,Regulator Station,2001-02-08,24,5,2015-06-03,Central Valley,37.33405,-120.99944,2015-07-17,Gas,Distribution,,Steel,FBE,SAW,30.0,N,4.0,2.0,CPZ-476,Overprotected,2023-01-04,-900.0,,,3,5.0,7.0
+A100372,Valve Station,2017-01-03,8,1,2018-07-19,Peninsula,37.67098,-122.42065,2018-11-29,Gas,Distribution,,Steel,Asphalt Enamel,Unknown,60.0,N,1.0,5.0,CPZ-842,Underprotected,2021-11-24,-912.0,,,2,9.0,10.0
+A100373,Pipeline Casing,1975-10-28,49,5,2003-04-19,South Bay,37.1862,-121.69999,2004-02-08,Gas,Transmission,4.0,Steel,Asphalt Enamel,ERW,60.0,N,1.0,3.0,CPZ-520,Underprotected,2018-05-15,-836.0,1996-06-26,0.0,0,8.0,10.0
+A100374,Pipeline Casing,1994-09-24,30,5,2009-08-24,East Bay,37.80376,-121.75044,2011-02-14,Gas,Transmission,36.0,Steel,None/Unknown,SAW,148.0,Y,2.0,4.0,CPZ-422,Adequate,2016-11-12,-1021.0,2011-05-02,3.0,1,8.0,10.0
+A100375,Test Station,1996-09-25,28,5,2009-09-02,South Bay,37.19494,-121.77164,2011-08-17,Gas,Distribution,,Steel,None/Unknown,ERW,200.0,Y,2.0,2.0,CPZ-591,Overprotected,2003-12-16,-1032.0,,,2,6.0,10.0
+A100376,Gas Distribution Main,1972-04-03,53,1,2024-12-25,East Bay,37.96883,-121.67359,2025-11-08,Gas,Distribution,12.0,PE,Tape Wrap,,148.0,N,2.0,5.0,CPZ-867,Adequate,2020-04-20,-773.0,,,1,9.0,10.0
+A100377,Test Station,1988-04-10,37,4,2018-08-30,San Francisco,37.73286,-122.48702,2020-04-05,Gas,Transmission,,Steel,Coal Tar,Unknown,60.0,Y,2.0,5.0,CPZ-985,Underprotected,1995-03-03,-1025.0,,,0,10.0,10.0
+A100378,Regulator Station,2006-06-27,19,2,2016-03-10,South Bay,37.44114,-121.72439,2018-04-26,Gas,Transmission,,Steel,Asphalt Enamel,Seamless,60.0,N,1.0,2.0,CPZ-548,Adequate,2014-02-16,-1051.0,,,0,4.0,5.0
+A100379,Gas Transmission Pipeline,1985-08-08,40,1,2024-04-16,San Francisco,37.71409,-122.47183,2024-06-25,Gas,Transmission,12.0,Steel,Tape Wrap,Seamless,500.0,N,1.0,2.0,CPZ-883,Adequate,1994-02-25,-1065.0,1992-01-26,13.0,1,7.0,7.0
+A100380,Gas Distribution Main,1977-09-28,47,5,2024-07-23,South Bay,37.28229,-122.16606,2024-08-28,Gas,Transmission,2.0,Steel,Coal Tar,Unknown,500.0,N,3.0,2.0,CPZ-810,Adequate,2022-05-30,-1007.0,,,0,6.0,6.0
+A100381,Launcher/Receiver,1987-04-21,38,4,2014-07-26,North Bay,38.19462,-122.53242,2016-06-01,Gas,Transmission,,Steel,Tape Wrap,ERW,720.0,Y,2.0,3.0,CPZ-904,Adequate,1989-02-23,-1092.0,2010-10-30,13.0,0,8.0,8.0
+A100382,Launcher/Receiver,2018-09-15,6,3,2020-08-16,San Francisco,37.76516,-122.40896,2022-12-15,Gas,Transmission,,Steel,FBE,Seamless,720.0,N,3.0,1.0,CPZ-309,Adequate,2023-10-02,-883.0,,0.0,0,4.0,3.0
+A100383,Anode Bed,1959-12-27,65,5,2003-03-10,San Francisco,37.72792,-122.40053,2004-07-16,Gas,Distribution,,Steel,Coal Tar,Seamless,148.0,Y,4.0,3.0,CPZ-206,Underprotected,1978-09-19,-965.0,,,0,10.0,10.0
+A100384,Service Line/Riser,1977-05-14,48,3,1994-06-25,South Bay,37.41029,-121.97455,1996-03-14,Gas,Transmission,4.0,Steel,Tape Wrap,SAW,500.0,N,1.0,3.0,CPZ-782,Adequate,2009-07-24,-970.0,,,1,8.0,8.0
+A100385,Anode Bed,2004-03-24,21,2,2006-08-19,San Francisco,37.73991,-122.36741,2007-12-04,Gas,Distribution,,Steel,FBE,SAW,60.0,N,1.0,1.0,CPZ-516,Unknown,2018-11-02,-782.0,,,2,5.0,7.0
+A100386,Valve Station,2001-10-25,23,3,2009-06-02,North Bay,38.48186,-123.01613,2010-05-13,Gas,Distribution,,Steel,None/Unknown,Seamless,200.0,N,1.0,3.0,CPZ-394,Adequate,2003-06-25,-762.0,,,2,8.0,10.0
+A100387,Service Line/Riser,2000-12-03,24,3,2004-06-28,North Bay,38.47252,-123.19457,2006-02-02,Gas,Transmission,8.0,Steel,None/Unknown,Unknown,720.0,Y,3.0,3.0,CPZ-443,Adequate,2014-02-21,-924.0,,,1,7.0,9.0
+A100388,Service Line/Riser,1982-10-15,42,4,1994-02-22,South Bay,37.47218,-121.95617,1994-04-12,Gas,Transmission,6.0,Cast Iron,Asphalt Enamel,,200.0,N,3.0,3.0,CPZ-632,Underprotected,1992-08-21,-981.0,,,1,6.0,10.0
+A100389,CP Rectifier,2002-06-28,23,5,2019-02-24,South Bay,37.10533,-122.00516,2020-11-27,Gas,Distribution,,Steel,FBE,ERW,200.0,Y,3.0,3.0,CPZ-295,Adequate,2010-12-30,-847.0,,,2,7.0,9.0
+A100390,Valve Station,1991-12-18,33,5,2017-12-06,Central Valley,37.18441,-121.2202,2018-08-23,Gas,Distribution,,Steel,Tape Wrap,Unknown,200.0,N,4.0,3.0,CPZ-876,Adequate,1995-06-28,-919.0,,,1,7.0,8.0
+A100391,Gas Distribution Main,1972-09-28,52,3,2017-05-10,Peninsula,37.66389,-122.48263,2017-08-18,Gas,Distribution,10.0,Cast Iron,FBE,,30.0,Y,4.0,3.0,CPZ-247,Unknown,2006-02-24,-914.0,,,2,9.0,10.0
+A100392,Valve Station,1964-07-04,61,4,1969-09-27,North Bay,38.31095,-123.16731,1971-10-20,Gas,Distribution,,Steel,Asphalt Enamel,Seamless,200.0,N,2.0,1.0,CPZ-318,Adequate,1981-08-12,-910.0,,,0,3.0,5.0
+A100393,Gas Transmission Pipeline,1975-02-08,50,3,1978-09-04,Central Valley,37.92068,-120.88234,1980-04-06,Gas,Transmission,8.0,Steel,Asphalt Enamel,Unknown,300.0,Y,1.0,2.0,CPZ-539,Unknown,2022-08-18,-765.0,1986-02-16,13.0,0,5.0,8.0
+A100394,Gas Distribution Main,1957-09-24,67,5,1966-01-03,Peninsula,37.38245,-122.43397,1967-01-27,Gas,Transmission,6.0,Wrought Iron,None/Unknown,,148.0,N,1.0,2.0,CPZ-167,Underprotected,1960-05-02,-806.0,,,3,8.0,10.0
+A100395,Valve Station,2021-02-10,4,5,2021-09-29,East Bay,37.7547,-122.16248,2022-12-13,Gas,Transmission,,Steel,Asphalt Enamel,Unknown,500.0,N,1.0,2.0,CPZ-530,Adequate,2023-06-05,-903.0,,,0,4.0,5.0
+A100396,Test Station,2019-04-13,6,3,2023-07-23,Peninsula,37.56237,-122.33774,2024-01-05,Gas,Distribution,,Steel,Tape Wrap,ERW,30.0,N,4.0,1.0,CPZ-577,Adequate,2023-04-18,-932.0,,,0,4.0,4.0
+A100397,Anode Bed,1998-01-06,27,4,2016-07-26,San Francisco,37.73163,-122.47656,2018-09-20,Gas,Transmission,,Steel,Asphalt Enamel,Unknown,720.0,N,3.0,5.0,CPZ-595,Overprotected,2024-12-11,-1022.0,,,1,8.0,10.0
+A100398,Test Station,1990-06-08,35,2,2025-04-11,San Francisco,37.81446,-122.50354,2025-07-27,Gas,Transmission,,Steel,Coal Tar,SAW,720.0,N,4.0,1.0,CPZ-589,Underprotected,2011-07-16,-995.0,,,0,8.0,7.0
+A100399,Gas Transmission Pipeline,2012-01-10,13,1,2021-04-11,North Bay,38.29646,-122.86521,2022-10-21,Gas,Transmission,6.0,Steel,Tape Wrap,Seamless,300.0,N,2.0,1.0,CPZ-865,Overprotected,2014-08-13,-940.0,2021-07-14,2.0,1,5.0,6.0
+A100400,Launcher/Receiver,2003-08-10,22,2,2015-12-21,South Bay,37.01029,-121.65733,2016-04-16,Gas,Transmission,,Steel,Tape Wrap,SAW,148.0,N,4.0,3.0,CPZ-692,Overprotected,2019-09-10,-941.0,2010-03-04,0.0,0,7.0,7.0
+A100401,Launcher/Receiver,2014-01-27,11,2,2015-11-04,South Bay,37.26174,-122.22364,2016-12-26,Gas,Transmission,,Steel,None/Unknown,ERW,300.0,N,3.0,1.0,CPZ-111,Unknown,2021-03-18,-725.0,2020-08-20,1.0,0,4.0,7.0
+A100402,Service Line/Riser,2002-06-19,23,3,2021-09-05,Central Valley,37.9148,-121.25487,2023-07-06,Gas,Distribution,20.0,Cast Iron,None/Unknown,,30.0,Y,4.0,3.0,CPZ-150,Adequate,2021-06-10,-858.0,,,0,8.0,8.0
+A100403,Pipeline Casing,1998-06-13,27,2,2005-01-14,East Bay,37.73367,-122.09991,2005-08-06,Gas,Transmission,30.0,Steel,Tape Wrap,SAW,148.0,N,4.0,4.0,CPZ-640,Adequate,2024-05-19,-786.0,2016-02-09,13.0,2,9.0,10.0
+A100404,CP Rectifier,2001-12-17,23,2,2004-08-26,Peninsula,37.56086,-122.40681,2006-10-24,Gas,Distribution,,Steel,Tape Wrap,ERW,60.0,N,4.0,1.0,CPZ-252,Underprotected,2004-06-21,-947.0,,,3,6.0,9.0
+A100405,Valve Station,2013-03-04,12,2,2024-10-27,South Bay,37.08278,-121.87112,2025-01-06,Gas,Transmission,,Steel,FBE,Seamless,148.0,N,4.0,5.0,CPZ-327,Underprotected,2019-09-27,-821.0,,,0,9.0,10.0
+A100406,Gas Transmission Pipeline,1964-08-21,61,3,1986-08-03,Sierra,38.91942,-120.93935,1988-08-23,Gas,Transmission,4.0,Steel,None/Unknown,Unknown,500.0,N,1.0,1.0,CPZ-819,Adequate,2011-03-11,-934.0,1995-01-27,5.0,1,5.0,7.0
+A100407,Anode Bed,1959-08-23,66,5,2007-09-09,Central Valley,37.64032,-121.26991,2008-09-08,Gas,Distribution,,Steel,Asphalt Enamel,ERW,100.0,N,4.0,3.0,CPZ-664,Adequate,1971-12-18,-874.0,,,0,5.0,7.0
+A100408,Gas Transmission Pipeline,1977-08-01,48,4,2018-10-27,East Bay,37.8663,-121.85752,2020-09-05,Gas,Transmission,24.0,Steel,Coal Tar,Unknown,1000.0,N,3.0,5.0,CPZ-932,Overprotected,2011-02-09,-909.0,2018-05-09,2.0,0,9.0,9.0
+A100409,Launcher/Receiver,1992-09-11,32,5,2007-05-01,Central Valley,37.17663,-121.2129,2008-11-15,Gas,Transmission,,Steel,Tape Wrap,Unknown,148.0,N,2.0,5.0,CPZ-737,Adequate,2002-01-01,-929.0,2012-06-17,13.0,0,9.0,9.0
+A100410,Launcher/Receiver,2016-12-09,8,1,2020-08-12,Sierra,39.23462,-120.01532,2021-08-06,Gas,Transmission,,Steel,None/Unknown,ERW,300.0,N,2.0,5.0,CPZ-386,Overprotected,2017-12-27,-916.0,2023-09-30,2.0,0,9.0,9.0
+A100411,CP Rectifier,2007-12-02,17,1,2024-11-07,Peninsula,37.30003,-122.10776,2026-08-23,Gas,Transmission,,Steel,Asphalt Enamel,ERW,720.0,N,3.0,2.0,CPZ-769,Adequate,2013-06-25,-746.0,,,0,5.0,6.0
+A100412,Gas Distribution Main,1957-01-16,68,5,1986-06-27,East Bay,37.60642,-122.08616,1987-12-10,Gas,Distribution,36.0,Steel,None/Unknown,Unknown,200.0,Y,3.0,2.0,CPZ-436,Adequate,1984-03-13,-900.0,,,1,8.0,9.0
+A100413,Test Station,1984-05-22,41,2,1989-04-09,Central Valley,37.13914,-121.19435,1990-05-25,Gas,Distribution,,Steel,None/Unknown,SAW,100.0,N,3.0,2.0,CPZ-425,Adequate,2007-01-20,-896.0,,,2,7.0,8.0
+A100414,Regulator Station,1962-10-13,62,1,2007-01-15,North Bay,38.56282,-122.42811,2007-05-24,Gas,Transmission,,Steel,Coal Tar,Unknown,500.0,Y,2.0,5.0,CPZ-399,Adequate,1970-02-10,-922.0,,,1,10.0,10.0
+A100415,Test Station,2017-10-24,7,4,2020-08-11,South Bay,37.16991,-121.88345,2021-11-20,Gas,Distribution,,Steel,Tape Wrap,Unknown,148.0,Y,4.0,4.0,CPZ-398,Adequate,2023-09-30,-827.0,,,2,10.0,10.0
+A100416,Anode Bed,1993-01-15,32,5,2020-08-12,Peninsula,37.45903,-122.30889,2022-02-19,Gas,Distribution,,Steel,Tape Wrap,Unknown,200.0,Y,4.0,1.0,CPZ-706,Adequate,1996-04-28,-1038.0,,,0,7.0,6.0
+A100417,Gas Distribution Main,1986-04-18,39,1,1993-03-09,Central Valley,37.98872,-121.40115,1994-12-21,Gas,Distribution,24.0,Steel,Coal Tar,Unknown,30.0,N,1.0,1.0,CPZ-478,Adequate,1995-01-29,-968.0,,,0,3.0,5.0
+A100418,Valve Station,1998-12-06,26,1,2011-05-04,North Bay,38.10341,-122.9442,2011-09-30,Gas,Transmission,,Steel,Coal Tar,SAW,60.0,N,1.0,1.0,CPZ-320,Underprotected,2014-12-14,-887.0,,,3,8.0,10.0
+A100419,Test Station,2010-04-26,15,1,2017-04-12,Central Valley,36.55093,-120.51738,2017-09-06,Gas,Distribution,,Steel,Coal Tar,Seamless,100.0,Y,1.0,4.0,CPZ-484,Underprotected,2020-10-31,-958.0,,,3,10.0,10.0
+A100420,Test Station,2002-07-20,23,3,2012-02-09,South Bay,37.33058,-122.03514,2014-05-08,Gas,Distribution,,Steel,Asphalt Enamel,Seamless,148.0,N,4.0,3.0,CPZ-441,Adequate,2022-11-28,-881.0,,,0,4.0,6.0
+A100421,Launcher/Receiver,1989-05-13,36,5,1996-12-16,Central Valley,37.59062,-120.82887,1997-09-23,Gas,Transmission,,Steel,FBE,Unknown,60.0,Y,2.0,2.0,CPZ-589,Adequate,2000-07-30,-883.0,2016-06-25,2.0,0,4.0,5.0
+A100422,Regulator Station,2012-06-16,13,5,2015-02-16,East Bay,37.76883,-121.82656,2015-12-16,Gas,Transmission,,Steel,None/Unknown,ERW,1000.0,N,2.0,5.0,CPZ-709,Adequate,2017-07-02,-782.0,,,0,9.0,10.0
+A100423,Test Station,2016-01-19,9,5,2022-05-30,South Bay,37.31396,-122.27317,2023-10-03,Gas,Transmission,,Steel,Tape Wrap,Seamless,1000.0,N,1.0,3.0,CPZ-462,Adequate,2024-12-09,-788.0,,,0,8.0,8.0
+A100424,Regulator Station,2002-04-16,23,1,2015-01-24,East Bay,37.78379,-122.25934,2017-07-11,Gas,Distribution,,Steel,None/Unknown,Seamless,60.0,N,1.0,4.0,CPZ-594,Underprotected,2022-07-21,-737.0,,,1,10.0,10.0
+A100425,CP Rectifier,1986-10-27,38,2,2015-11-12,Peninsula,37.34404,-122.17316,2017-12-16,Gas,Transmission,,Steel,Asphalt Enamel,ERW,720.0,N,2.0,5.0,CPZ-536,Adequate,1989-02-15,-887.0,,,0,7.0,8.0
+A100426,Gas Distribution Main,1971-09-23,53,5,2001-02-24,East Bay,37.69287,-122.2011,2002-05-21,Gas,Distribution,8.0,Wrought Iron,Coal Tar,,60.0,N,1.0,1.0,CPZ-428,Adequate,1978-10-18,-932.0,,,0,4.0,6.0
+A100427,Anode Bed,1956-12-03,68,5,1964-12-31,Sierra,39.41205,-120.61498,1966-11-17,Gas,Distribution,,Steel,Coal Tar,Unknown,60.0,N,4.0,3.0,CPZ-724,Adequate,2005-11-03,-894.0,,,0,7.0,7.0
+A100428,CP Rectifier,1956-11-26,68,2,1990-07-21,North Bay,38.02452,-123.07076,1992-12-16,Gas,Distribution,,Steel,FBE,Unknown,60.0,N,3.0,2.0,CPZ-164,Overprotected,1989-09-28,-903.0,,,0,6.0,5.0
+A100429,Pipeline Casing,1981-12-25,43,5,2005-06-30,Peninsula,37.47675,-122.37263,2007-04-20,Gas,Transmission,16.0,Steel,None/Unknown,ERW,1000.0,N,3.0,1.0,CPZ-539,Adequate,2012-09-12,-801.0,2009-05-28,13.0,0,5.0,7.0
+A100430,Test Station,1967-05-15,58,3,1984-01-15,South Bay,37.32408,-121.6991,1986-04-27,Gas,Transmission,,Steel,None/Unknown,SAW,300.0,N,2.0,5.0,CPZ-365,Adequate,1970-04-22,-805.0,,,3,10.0,10.0
+A100431,Anode Bed,1981-08-04,44,1,2024-06-30,Central Valley,37.59969,-120.89477,2026-05-08,Gas,Transmission,,Steel,Tape Wrap,SAW,500.0,Y,1.0,2.0,CPZ-925,Adequate,2014-12-27,-801.0,,,3,9.0,10.0
+A100432,Gas Transmission Pipeline,2020-11-23,4,2,2022-05-15,South Bay,37.02045,-121.93872,2023-01-31,Gas,Transmission,6.0,Steel,None/Unknown,SAW,148.0,Y,1.0,5.0,CPZ-764,Adequate,2022-02-02,-965.0,,1.0,1,10.0,10.0
+A100433,Gas Distribution Main,1958-03-09,67,2,1978-09-07,Central Valley,37.19772,-121.06501,1980-01-09,Gas,Distribution,16.0,Wrought Iron,Coal Tar,,200.0,N,1.0,4.0,CPZ-813,Adequate,2011-02-03,-996.0,,,1,8.0,10.0
+A100434,Gas Transmission Pipeline,1987-12-17,37,5,2020-04-09,North Bay,38.368,-122.79838,2020-05-16,Gas,Transmission,16.0,Steel,Coal Tar,Seamless,148.0,N,1.0,5.0,CPZ-252,Underprotected,2007-05-11,-839.0,2019-12-31,8.0,0,10.0,10.0
+A100435,Gas Distribution Main,1998-08-04,27,2,2011-10-30,San Francisco,37.70331,-122.51489,2012-10-21,Gas,Transmission,6.0,PE,None/Unknown,,30.0,N,3.0,4.0,CPZ-856,Adequate,2023-04-30,-793.0,,,0,10.0,9.0
+A100436,Anode Bed,1973-09-13,51,4,1980-01-13,North Bay,38.67196,-122.41097,1981-05-31,Gas,Transmission,,Steel,FBE,Unknown,60.0,N,1.0,4.0,CPZ-159,Adequate,1998-07-06,-674.0,,,0,7.0,8.0
+A100437,Service Line/Riser,1974-12-19,50,4,1987-02-09,South Bay,37.22859,-122.14394,1988-10-08,Gas,Transmission,24.0,Wrought Iron,Coal Tar,,60.0,Y,2.0,4.0,CPZ-622,Underprotected,1988-04-25,-982.0,,,0,10.0,10.0
+A100438,Gas Distribution Main,1982-03-03,43,1,1984-11-04,South Bay,37.33326,-122.16558,1986-03-07,Gas,Transmission,36.0,PE,None/Unknown,,30.0,N,4.0,2.0,CPZ-902,Adequate,2015-05-31,-848.0,,,2,7.0,9.0
+A100439,Gas Transmission Pipeline,1958-02-12,67,3,2023-10-20,North Bay,38.02217,-123.06344,2025-04-11,Gas,Transmission,6.0,Steel,Coal Tar,Seamless,500.0,Y,3.0,2.0,CPZ-668,Adequate,1999-01-10,-868.0,1999-11-13,2.0,3,7.0,10.0
+A100440,CP Rectifier,1967-09-17,57,5,2017-04-23,Sierra,39.59061,-121.0894,2018-12-01,Gas,Transmission,,Steel,Coal Tar,Unknown,300.0,N,2.0,4.0,CPZ-449,Overprotected,1973-12-04,-824.0,,,2,9.0,10.0
+A100441,Regulator Station,1994-06-26,31,5,2016-07-11,South Bay,37.4403,-122.02608,2016-08-14,Gas,Distribution,,Steel,FBE,ERW,200.0,N,1.0,1.0,CPZ-826,Adequate,2011-12-20,-773.0,,,0,5.0,5.0
+A100442,Pipeline Casing,2021-02-05,4,3,2023-05-15,Peninsula,37.43079,-122.42824,2023-08-03,Gas,Transmission,10.0,Steel,Coal Tar,Unknown,1000.0,Y,3.0,4.0,CPZ-108,Underprotected,2024-10-09,-1070.0,,3.0,0,10.0,10.0
+A100443,Pipeline Casing,2006-02-20,19,5,2024-08-28,North Bay,38.24855,-122.34127,2025-03-05,Gas,Transmission,36.0,Steel,Tape Wrap,SAW,60.0,N,4.0,3.0,CPZ-529,Adequate,2024-03-09,-706.0,2017-09-29,5.0,1,7.0,9.0
+A100444,Pipeline Casing,2015-07-26,10,5,2025-04-10,South Bay,37.16811,-121.6029,2027-04-01,Gas,Transmission,4.0,Steel,FBE,SAW,500.0,N,4.0,4.0,CPZ-712,Adequate,2021-09-18,-1008.0,2022-10-31,13.0,1,8.0,7.0
+A100445,Service Line/Riser,1980-01-02,45,1,2023-05-20,South Bay,37.04909,-121.63977,2024-05-11,Gas,Transmission,8.0,Steel,Asphalt Enamel,Unknown,300.0,N,3.0,3.0,CPZ-508,Underprotected,2004-11-22,-885.0,,,0,7.0,8.0
+A100446,Launcher/Receiver,1985-03-25,40,5,1993-01-30,North Bay,38.01189,-122.99702,1993-07-07,Gas,Transmission,,Steel,None/Unknown,Unknown,720.0,N,1.0,1.0,CPZ-255,Overprotected,1999-11-13,-869.0,2014-11-04,3.0,2,5.0,8.0
+A100447,Gas Distribution Main,1985-09-17,39,5,2019-04-07,San Francisco,37.75448,-122.46152,2020-05-22,Gas,Transmission,20.0,Steel,None/Unknown,Unknown,500.0,N,1.0,1.0,CPZ-741,Adequate,1995-07-09,-959.0,,,1,4.0,6.0
+A100448,Service Line/Riser,1958-05-03,67,4,1971-03-18,North Bay,38.08102,-122.34266,1971-07-21,Gas,Distribution,16.0,Cast Iron,FBE,,60.0,N,3.0,4.0,CPZ-115,Adequate,1987-04-13,-944.0,,,1,8.0,8.0
+A100449,Gas Distribution Main,2021-11-06,3,1,2022-04-03,Peninsula,37.38282,-122.23778,2022-12-13,Gas,Transmission,12.0,Steel,Tape Wrap,Unknown,148.0,Y,4.0,1.0,CPZ-220,Adequate,2023-02-27,-831.0,,,1,7.0,8.0
+A100450,Anode Bed,1976-09-06,48,2,1985-12-06,South Bay,37.08167,-121.61111,1987-01-31,Gas,Transmission,,Steel,FBE,Seamless,60.0,N,3.0,1.0,CPZ-218,Adequate,2003-11-16,-853.0,,,2,2.0,5.0
+A100451,Valve Station,1993-09-10,31,1,2023-10-10,South Bay,37.29381,-121.62285,2024-04-22,Gas,Distribution,,Steel,None/Unknown,SAW,60.0,N,3.0,4.0,CPZ-138,Adequate,2008-08-14,-803.0,,,2,10.0,10.0
+A100452,Gas Distribution Main,1997-05-27,28,4,1998-08-13,Peninsula,37.50751,-122.19414,1998-11-20,Gas,Transmission,4.0,Cast Iron,Asphalt Enamel,,30.0,N,4.0,2.0,CPZ-734,Adequate,1999-04-28,-900.0,,,0,5.0,6.0
+A100453,Gas Distribution Main,1989-01-15,36,1,2010-08-17,East Bay,37.66417,-122.10556,2011-12-13,Gas,Distribution,36.0,Wrought Iron,Asphalt Enamel,,30.0,N,2.0,1.0,CPZ-958,Adequate,1996-12-13,-947.0,,,1,5.0,6.0
+A100454,CP Rectifier,1996-06-10,29,2,2014-05-25,San Francisco,37.79242,-122.44953,2016-09-22,Gas,Transmission,,Steel,Tape Wrap,Seamless,60.0,Y,4.0,2.0,CPZ-681,Underprotected,2021-12-01,-1178.0,,,2,7.0,10.0
+A100455,Test Station,2007-03-18,18,4,2008-10-20,North Bay,38.18503,-122.35075,2010-03-14,Gas,Transmission,,Steel,FBE,Seamless,1000.0,N,1.0,4.0,CPZ-115,Adequate,2014-02-17,-912.0,,,1,8.0,7.0
+A100456,Regulator Station,2014-12-18,10,2,2021-03-17,Central Valley,36.64574,-121.29322,2022-05-30,Gas,Distribution,,Steel,Asphalt Enamel,Unknown,148.0,N,4.0,1.0,CPZ-262,Adequate,2023-06-23,-912.0,,,0,1.0,4.0
+A100457,Anode Bed,1987-12-09,37,5,2014-05-19,San Francisco,37.74061,-122.39614,2016-10-18,Gas,Transmission,,Steel,FBE,ERW,1000.0,Y,2.0,1.0,CPZ-995,Underprotected,2004-07-29,-791.0,,,0,6.0,8.0
+A100458,Anode Bed,1966-08-27,58,2,2004-03-11,South Bay,37.49789,-122.14611,2006-06-09,Gas,Distribution,,Steel,None/Unknown,ERW,148.0,Y,2.0,1.0,CPZ-352,Overprotected,1984-08-26,-793.0,,,1,7.0,10.0
+A100459,Test Station,1966-04-20,59,5,2000-12-03,Peninsula,37.67809,-122.38397,2002-07-19,Gas,Distribution,,Steel,Tape Wrap,Unknown,30.0,N,4.0,2.0,CPZ-395,Unknown,1995-11-20,-1047.0,,,0,5.0,7.0
+A100460,Launcher/Receiver,1956-08-10,69,4,1980-12-25,South Bay,37.29732,-121.8631,1981-11-11,Gas,Transmission,,Steel,Asphalt Enamel,Unknown,60.0,N,1.0,2.0,CPZ-656,Adequate,2025-01-24,-998.0,1986-02-05,1.0,2,5.0,8.0
+A100461,Test Station,1974-09-01,50,3,2002-07-30,San Francisco,37.80785,-122.42064,2004-02-18,Gas,Distribution,,Steel,Tape Wrap,Seamless,30.0,N,4.0,3.0,CPZ-854,Adequate,2000-09-16,-890.0,,,1,7.0,8.0
+A100462,Pipeline Casing,1990-11-05,34,2,1994-01-16,North Bay,38.13726,-123.17539,1995-02-18,Gas,Transmission,36.0,Steel,Tape Wrap,SAW,148.0,Y,1.0,4.0,CPZ-518,Adequate,2001-05-16,-766.0,2005-05-16,5.0,0,10.0,10.0
+A100463,CP Rectifier,1973-04-03,52,5,1983-01-10,Sierra,39.53193,-121.16542,1983-06-28,Gas,Distribution,,Steel,Coal Tar,Unknown,30.0,N,4.0,2.0,CPZ-824,Underprotected,1982-02-11,-774.0,,,1,9.0,10.0
+A100464,Test Station,1962-12-20,62,4,1967-04-30,Sierra,38.85342,-120.03723,1968-12-19,Gas,Distribution,,Steel,Asphalt Enamel,Seamless,100.0,N,3.0,5.0,CPZ-870,Overprotected,2014-01-20,-932.0,,,0,8.0,9.0
+A100465,Regulator Station,1975-08-07,50,5,2016-03-01,East Bay,37.75964,-121.84455,2017-03-28,Gas,Transmission,,Steel,Coal Tar,SAW,500.0,N,3.0,2.0,CPZ-653,Adequate,1983-01-21,-975.0,,,1,4.0,7.0
+A100466,Gas Distribution Main,1997-02-06,28,3,1999-05-22,San Francisco,37.76764,-122.37813,2000-04-06,Gas,Distribution,16.0,PE,None/Unknown,,200.0,N,1.0,2.0,CPZ-636,Adequate,2000-12-13,-979.0,,,0,6.0,6.0
+A100467,Test Station,2007-03-04,18,1,2017-01-24,Central Valley,36.87767,-120.97612,2017-08-22,Gas,Transmission,,Steel,None/Unknown,Seamless,300.0,N,1.0,4.0,CPZ-572,Adequate,2022-10-28,-841.0,,,0,10.0,9.0
+A100468,Test Station,2013-05-09,12,4,2018-01-19,Sierra,39.10159,-120.52374,2019-06-15,Gas,Distribution,,Steel,Tape Wrap,ERW,200.0,Y,1.0,3.0,CPZ-116,Adequate,2020-12-18,-876.0,,,1,10.0,8.0
+A100469,Pipeline Casing,1984-05-19,41,5,2009-08-20,Central Valley,37.84663,-120.55293,2010-09-11,Gas,Transmission,30.0,Steel,None/Unknown,Unknown,60.0,N,3.0,4.0,CPZ-534,Adequate,2005-07-08,-883.0,2021-12-19,13.0,0,8.0,8.0
+A100470,Launcher/Receiver,2011-02-18,14,1,2021-08-22,South Bay,37.12316,-122.03031,2023-02-05,Gas,Transmission,,Steel,Tape Wrap,ERW,148.0,N,2.0,4.0,CPZ-113,Adequate,2019-03-14,-808.0,2020-10-13,3.0,1,8.0,10.0
+A100471,Regulator Station,1987-04-13,38,5,2021-08-12,Sierra,38.88907,-120.31929,2022-12-30,Gas,Transmission,,Steel,FBE,Seamless,148.0,N,3.0,4.0,CPZ-853,Unknown,2015-01-05,-873.0,,,1,7.0,8.0
+A100472,Launcher/Receiver,1998-05-08,27,2,2012-06-12,Sierra,39.20308,-120.21399,2013-08-01,Gas,Transmission,,Steel,None/Unknown,Seamless,500.0,Y,3.0,5.0,CPZ-640,Adequate,1999-12-04,-704.0,2019-10-01,8.0,1,10.0,10.0
+A100473,Test Station,1956-08-14,69,1,2018-08-10,Sierra,39.16529,-120.03163,2019-05-19,Gas,Transmission,,Steel,FBE,SAW,60.0,Y,4.0,1.0,CPZ-151,Unknown,1975-11-04,-872.0,,,0,6.0,5.0
+A100474,Gas Distribution Main,2016-11-19,8,3,2019-07-07,Sierra,38.70884,-120.12465,2021-11-30,Gas,Transmission,12.0,Wrought Iron,None/Unknown,,148.0,Y,2.0,3.0,CPZ-970,Underprotected,2024-03-11,-841.0,,,3,9.0,10.0
+A100475,Launcher/Receiver,2019-01-25,6,1,2021-06-04,Central Valley,37.90471,-121.27642,2022-09-25,Gas,Transmission,,Steel,Coal Tar,Seamless,720.0,Y,1.0,3.0,CPZ-104,Adequate,2021-03-11,-846.0,,0.0,0,8.0,9.0
+A100476,Gas Transmission Pipeline,2018-05-02,7,2,2024-12-05,San Francisco,37.79932,-122.46373,2025-01-21,Gas,Transmission,20.0,Steel,Tape Wrap,ERW,60.0,N,4.0,1.0,CPZ-921,Underprotected,2025-04-26,-960.0,2024-07-25,8.0,0,5.0,6.0
+A100477,Valve Station,1997-09-10,27,5,2006-08-23,North Bay,38.69156,-122.44819,2008-07-13,Gas,Transmission,,Steel,None/Unknown,Seamless,148.0,Y,3.0,1.0,CPZ-199,Adequate,2007-09-28,-896.0,,,1,6.0,7.0
+A100478,Test Station,1960-10-17,64,2,2009-09-30,East Bay,37.55719,-122.35794,2009-11-12,Gas,Transmission,,Steel,Coal Tar,Unknown,1000.0,N,1.0,4.0,CPZ-345,Unknown,2021-04-30,-841.0,,,0,8.0,10.0
+A100479,Anode Bed,1977-03-13,48,3,2009-04-10,North Bay,38.66331,-122.44295,2011-03-06,Gas,Distribution,,Steel,FBE,SAW,100.0,N,1.0,4.0,CPZ-607,Adequate,2020-08-22,-927.0,,,1,6.0,7.0
+A100480,Gas Transmission Pipeline,1965-06-09,60,3,2010-06-21,Peninsula,37.3985,-122.41786,2011-10-01,Gas,Transmission,20.0,Steel,Coal Tar,Seamless,300.0,N,2.0,4.0,CPZ-202,Adequate,1987-10-12,-914.0,1984-12-17,1.0,1,10.0,9.0
+A100481,Valve Station,1994-02-09,31,2,2006-02-08,East Bay,37.66245,-122.31983,2006-11-25,Gas,Distribution,,Steel,Asphalt Enamel,Seamless,30.0,N,2.0,3.0,CPZ-880,Overprotected,2010-01-04,-1105.0,,,3,7.0,10.0
+A100482,Regulator Station,1973-03-15,52,4,1988-08-30,Sierra,38.96931,-120.89634,1989-08-05,Gas,Distribution,,Steel,None/Unknown,SAW,30.0,N,4.0,5.0,CPZ-677,Adequate,2022-07-07,-795.0,,,0,8.0,10.0
+A100483,Regulator Station,2012-03-22,13,1,2015-07-09,North Bay,38.0099,-122.43712,2016-07-22,Gas,Transmission,,Steel,FBE,Seamless,720.0,N,4.0,2.0,CPZ-862,Adequate,2021-05-21,-890.0,,,1,6.0,5.0
+A100484,Anode Bed,1995-02-02,30,1,2012-02-03,Peninsula,37.40721,-122.1039,2014-04-11,Gas,Distribution,,Steel,Coal Tar,Unknown,148.0,N,4.0,1.0,CPZ-203,Underprotected,2007-02-24,-747.0,,,1,6.0,9.0
+A100485,Test Station,2009-12-23,15,4,2024-03-14,San Francisco,37.78279,-122.45051,2025-02-18,Gas,Transmission,,Steel,None/Unknown,SAW,1000.0,N,4.0,4.0,CPZ-165,Adequate,2017-10-16,-902.0,,,2,7.0,10.0
+A100486,Launcher/Receiver,2011-03-17,14,2,2013-10-13,Sierra,38.76488,-120.91783,2015-05-02,Gas,Transmission,,Steel,None/Unknown,SAW,300.0,N,3.0,4.0,CPZ-810,Adequate,2022-11-10,-943.0,2022-10-27,2.0,0,9.0,8.0
+A100487,Pipeline Casing,1993-08-13,32,1,2020-12-12,East Bay,37.54167,-122.24295,2022-04-05,Gas,Transmission,4.0,Steel,Tape Wrap,ERW,148.0,N,4.0,4.0,CPZ-529,Underprotected,1995-09-22,-811.0,2023-05-29,13.0,1,9.0,10.0
+A100488,Pipeline Casing,1968-03-25,57,2,2022-02-02,Sierra,38.59744,-120.35949,2023-04-06,Gas,Transmission,20.0,Steel,Asphalt Enamel,Unknown,1000.0,N,4.0,5.0,CPZ-770,Adequate,1995-08-21,-821.0,2023-12-26,13.0,1,9.0,10.0
+A100489,Valve Station,1996-08-21,28,4,2008-05-22,South Bay,37.15577,-121.64097,2009-12-25,Gas,Transmission,,Steel,Tape Wrap,Unknown,60.0,N,3.0,4.0,CPZ-185,Adequate,2015-10-31,-1118.0,,,1,8.0,9.0
+A100490,Test Station,1960-04-19,65,3,1965-11-23,Sierra,39.27642,-120.97533,1967-01-18,Gas,Distribution,,Steel,None/Unknown,SAW,200.0,N,3.0,2.0,CPZ-869,Overprotected,1986-09-08,-967.0,,,0,5.0,7.0
+A100491,Service Line/Riser,1971-05-03,54,2,1983-05-22,South Bay,37.47995,-121.95496,1983-07-19,Gas,Transmission,16.0,Cast Iron,None/Unknown,,60.0,N,1.0,2.0,CPZ-988,Adequate,1994-07-13,-916.0,,,0,7.0,7.0
+A100492,Pipeline Casing,1988-09-19,36,3,2015-04-20,Central Valley,37.38131,-120.91586,2017-03-07,Gas,Transmission,4.0,Steel,FBE,Unknown,720.0,N,4.0,1.0,CPZ-163,Adequate,1993-08-08,-923.0,1999-01-08,8.0,0,2.0,3.0
+A100493,Launcher/Receiver,2017-12-10,7,5,2021-01-14,Central Valley,37.09013,-120.68767,2021-07-03,Gas,Transmission,,Steel,Tape Wrap,ERW,148.0,N,1.0,2.0,CPZ-843,Unknown,2019-12-24,-896.0,2023-09-25,13.0,0,6.0,6.0
+A100494,Service Line/Riser,2002-03-18,23,2,2018-08-07,Sierra,39.21568,-120.77343,2018-09-29,Gas,Transmission,36.0,Wrought Iron,Tape Wrap,,200.0,N,2.0,2.0,CPZ-213,Adequate,2013-04-14,-812.0,,,2,7.0,9.0
+A100495,Test Station,1967-08-15,58,1,1986-05-23,South Bay,37.33697,-121.62093,1987-01-06,Gas,Distribution,,Steel,Coal Tar,ERW,148.0,N,4.0,2.0,CPZ-983,Adequate,1990-06-13,-810.0,,,1,7.0,9.0
+A100496,Test Station,1986-03-07,39,2,2002-09-15,East Bay,37.52252,-121.86184,2004-12-11,Gas,Distribution,,Steel,FBE,ERW,100.0,Y,1.0,4.0,CPZ-470,Unknown,1997-06-12,-973.0,,,1,8.0,9.0
+A100497,Test Station,2019-09-17,5,5,2020-08-02,Central Valley,37.76358,-120.88583,2021-12-20,Gas,Transmission,,Steel,Asphalt Enamel,SAW,1000.0,Y,3.0,3.0,CPZ-827,Underprotected,2023-12-12,-879.0,,,3,8.0,10.0
+A100498,Pipeline Casing,1957-05-12,68,3,1966-06-15,South Bay,37.23921,-122.13669,1968-01-03,Gas,Transmission,2.0,Steel,Coal Tar,SAW,500.0,N,3.0,3.0,CPZ-889,Adequate,2005-12-06,-902.0,2013-03-23,13.0,1,7.0,8.0
+A100499,CP Rectifier,1982-02-17,43,5,1993-06-25,East Bay,37.80993,-122.13658,1993-12-16,Gas,Transmission,,Steel,FBE,ERW,60.0,N,4.0,1.0,CPZ-390,Underprotected,1994-11-03,-792.0,,,0,5.0,7.0
+A100500,Launcher/Receiver,1968-04-13,57,2,1985-03-24,Sierra,39.41035,-120.3656,1986-05-11,Gas,Transmission,,Steel,Asphalt Enamel,Unknown,500.0,N,4.0,4.0,CPZ-563,Overprotected,2005-06-17,-896.0,2011-08-27,2.0,1,6.0,9.0

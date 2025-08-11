@@ -1,0 +1,341 @@
+WorkOrderID,AssetID,AssetType,Region,Latitude,Longitude,Status,Priority,RiskScore,CreatedDate,DueDate,DaysOverdue,AssignedCrewID,Commodity,CPZoneID,HCA_Flag,RiskScore_Rubric,Priority_Rubric
+WO200001,A100255,Regulator,San Francisco,37.78219,-122.3893,Closed,Critical,10,2025-05-06,2025-06-02,0,C113,Electric,,,,
+WO200002,A100294,Regulator,Peninsula,37.38276,-122.3349,Closed,Critical,10,2025-04-13,2025-05-21,0,C104,Electric,,,,
+WO200003,A100077,Substation Equipment,North Bay,38.08368,-122.63362,In Progress,Critical,10,2025-07-24,2025-08-16,0,C106,Electric,,,,
+WO200004,A100083,Feeder,East Bay,37.88927,-122.19482,Deferred,High,7,2025-04-28,2025-06-24,44,,Electric,,,,
+WO200005,A100046,Transformer,Sierra,39.67814,-120.0688,Assigned,Critical,10,2025-07-03,2025-08-12,0,C119,Electric,,,,
+WO200006,A100059,Transformer,Central Valley,37.77095,-120.97088,Open,High,6,2025-05-31,2025-07-11,27,,Electric,,,,
+WO200007,A100193,Feeder,Central Valley,37.17849,-121.22836,Open,Critical,10,2025-05-29,2025-07-07,31,,Electric,,,,
+WO200008,A100009,Feeder,North Bay,38.13246,-123.1635,Assigned,Critical,9,2025-04-18,2025-06-17,51,C111,Electric,,,,
+WO200009,A100070,Gas Valve,East Bay,37.82665,-121.62068,Deferred,Critical,10,2025-06-06,2025-07-30,8,,Gas,,,,
+WO200010,A100175,Pole,Sierra,39.5129,-120.67693,Open,Critical,10,2025-07-02,2025-08-21,0,,Electric,,,,
+WO200011,A100239,Gas Valve,Peninsula,37.34468,-122.14171,Deferred,Medium,4,2025-05-24,2025-07-18,20,,Gas,,,,
+WO200012,A100146,Transformer,Central Valley,37.28741,-120.63998,Assigned,High,6,2025-04-26,2025-06-11,57,C102,Electric,,,,
+WO200013,A100050,Pole,North Bay,38.48249,-122.40426,Assigned,Critical,10,2025-06-26,2025-07-20,18,C102,Electric,,,,
+WO200014,A100089,Transformer,San Francisco,37.79976,-122.50586,Assigned,Critical,10,2025-07-27,2025-08-07,0,C114,Electric,,,,
+WO200015,A100147,Substation Equipment,Peninsula,37.46027,-122.32175,In Progress,Critical,10,2025-05-09,2025-06-29,39,C119,Electric,,,,
+WO200016,A100080,Switchgear,Peninsula,37.37822,-122.12313,Open,Critical,10,2025-06-25,2025-07-08,30,,Electric,,,,
+WO200017,A100297,Pole,Central Valley,37.09339,-121.48063,Deferred,Critical,9,2025-04-25,2025-05-27,72,,Electric,,,,
+WO200018,A100186,Pole,East Bay,37.72064,-122.3138,Deferred,Critical,10,2025-05-22,2025-06-12,56,,Electric,,,,
+WO200019,A100179,Pole,Peninsula,37.63085,-122.36642,Open,Critical,9,2025-06-08,2025-07-14,24,,Electric,,,,
+WO200020,A100168,Substation Equipment,San Francisco,37.80756,-122.44618,Open,Critical,10,2025-07-12,2025-09-06,0,,Electric,,,,
+WO200021,A100113,Pole,Peninsula,37.67956,-122.35494,Open,Critical,10,2025-04-17,2025-06-03,65,,Electric,,,,
+WO200022,A100241,Transformer,South Bay,37.15035,-122.09266,Closed,High,8,2025-05-07,2025-06-18,0,C105,Electric,,,,
+WO200023,A100269,Regulator,North Bay,38.29459,-122.51278,In Progress,High,8,2025-06-13,2025-08-01,6,C114,Electric,,,,
+WO200024,A100100,Gas Valve,South Bay,37.11413,-121.92318,Closed,High,8,2025-05-30,2025-06-24,0,C105,Gas,,,,
+WO200025,A100014,Pole,San Francisco,37.71653,-122.3961,Assigned,Critical,10,2025-04-20,2025-06-19,49,C108,Electric,,,,
+WO200026,A100221,Pole,Central Valley,37.81309,-120.85739,Assigned,Critical,10,2025-06-24,2025-08-15,0,C109,Electric,,,,
+WO200027,A100084,Transformer,San Francisco,37.78251,-122.37821,Open,Critical,10,2025-06-04,2025-07-24,14,,Electric,,,,
+WO200028,A100084,Transformer,San Francisco,37.72901,-122.49334,Closed,Critical,10,2025-07-28,2025-09-24,0,C109,Electric,,,,
+WO200029,A100203,Substation Equipment,North Bay,38.30323,-122.82416,In Progress,Critical,10,2025-06-13,2025-07-05,33,C111,Electric,,,,
+WO200030,A100270,Substation Equipment,East Bay,37.58336,-122.1064,Assigned,Critical,10,2025-05-28,2025-07-05,33,C103,Electric,,,,
+WO200031,A100158,Switchgear,South Bay,37.24714,-122.12289,Open,Critical,10,2025-05-05,2025-06-04,64,,Electric,,,,
+WO200032,A100235,Regulator,San Francisco,37.81607,-122.5105,Open,Critical,10,2025-06-20,2025-07-21,17,,Electric,,,,
+WO200033,A100184,Substation Equipment,Peninsula,37.59221,-122.15403,Closed,High,6,2025-04-14,2025-05-27,0,C105,Electric,,,,
+WO200034,A100049,Regulator,East Bay,37.92448,-122.09749,Assigned,Critical,10,2025-05-22,2025-07-21,17,C119,Electric,,,,
+WO200035,A100170,Switchgear,Central Valley,36.88704,-121.27724,Open,Critical,10,2025-07-27,2025-09-14,0,,Electric,,,,
+WO200036,A100162,Transformer,East Bay,37.83197,-122.37843,Assigned,Low,1,2025-07-19,2025-09-05,0,C120,Electric,,,,
+WO200037,A100064,Pole,Peninsula,37.3848,-122.24231,Open,Low,1,2025-07-16,2025-08-29,0,,Electric,,,,
+WO200038,A100231,Feeder,Peninsula,37.55352,-122.37572,Closed,Critical,9,2025-06-29,2025-07-17,0,C112,Electric,,,,
+WO200039,A100230,Substation Equipment,North Bay,38.62266,-122.50264,Open,High,7,2025-04-19,2025-05-05,94,,Electric,,,,
+WO200040,A100006,Switchgear,San Francisco,37.76353,-122.43105,In Progress,Critical,10,2025-06-07,2025-08-03,4,C120,Electric,,,,
+WO200041,A100038,Substation Equipment,Central Valley,37.99693,-120.71355,Deferred,Critical,10,2025-05-01,2025-06-15,53,,Electric,,,,
+WO200042,A100033,Regulator,South Bay,37.35192,-122.07552,Closed,Critical,9,2025-07-17,2025-09-04,0,C118,Electric,,,,
+WO200043,A100289,Pole,North Bay,38.18466,-122.41234,Closed,High,6,2025-04-19,2025-06-05,0,C107,Electric,,,,
+WO200044,A100088,Substation Equipment,South Bay,37.00976,-122.1639,Open,High,8,2025-05-26,2025-07-16,22,,Electric,,,,
+WO200045,A100275,Regulator,East Bay,37.99552,-121.84952,Closed,Critical,10,2025-07-18,2025-09-10,0,C104,Electric,,,,
+WO200046,A100142,Pole,San Francisco,37.78787,-122.41221,Open,Critical,10,2025-05-18,2025-06-01,67,,Electric,,,,
+WO200047,A100256,Pole,San Francisco,37.7774,-122.44394,Open,High,8,2025-06-29,2025-08-27,0,,Electric,,,,
+WO200048,A100131,Substation Equipment,Central Valley,36.62303,-121.36209,Open,Critical,9,2025-05-26,2025-07-07,31,,Electric,,,,
+WO200049,A100143,Substation Equipment,San Francisco,37.70859,-122.3716,In Progress,Critical,10,2025-05-30,2025-06-15,53,C108,Electric,,,,
+WO200050,A100101,Substation Equipment,Sierra,38.99541,-120.81041,In Progress,Medium,5,2025-05-26,2025-06-12,56,C101,Electric,,,,
+WO200051,A100114,Transformer,Central Valley,37.16294,-120.67974,Assigned,Medium,4,2025-07-08,2025-09-06,0,C119,Electric,,,,
+WO200052,A100046,Transformer,Sierra,39.04887,-120.10105,Assigned,Critical,10,2025-05-26,2025-07-14,24,C115,Electric,,,,
+WO200053,A100107,Transformer,Sierra,39.37804,-120.99046,Assigned,High,8,2025-06-11,2025-07-15,23,C103,Electric,,,,
+WO200054,A100025,Substation Equipment,East Bay,37.66463,-122.17183,Assigned,High,8,2025-07-05,2025-08-21,0,C101,Electric,,,,
+WO200055,A100240,Pole,Peninsula,37.60396,-122.11722,Open,Critical,9,2025-07-26,2025-09-10,0,,Electric,,,,
+WO200056,A100075,Substation Equipment,East Bay,37.81366,-122.21191,Closed,Critical,10,2025-04-25,2025-05-23,0,C104,Electric,,,,
+WO200057,A100125,Transformer,San Francisco,37.7755,-122.4485,Assigned,High,6,2025-05-24,2025-06-30,38,C105,Electric,,,,
+WO200058,A100253,Substation Equipment,Central Valley,37.66491,-120.9622,In Progress,Critical,10,2025-07-24,2025-08-13,0,C105,Electric,,,,
+WO200059,A100157,Transformer,South Bay,37.17904,-122.09897,Closed,High,7,2025-06-15,2025-06-28,0,C112,Electric,,,,
+WO200060,A100045,Pole,East Bay,37.73135,-121.73737,Closed,Critical,9,2025-06-15,2025-07-22,0,C118,Electric,,,,
+WO200061,A100147,Substation Equipment,Peninsula,37.43101,-122.11514,Assigned,Critical,10,2025-04-21,2025-05-11,88,C111,Electric,,,,
+WO200062,A100285,Pole,Peninsula,37.63639,-122.21135,In Progress,Critical,10,2025-06-04,2025-06-27,41,C110,Electric,,,,
+WO200063,A100244,Regulator,Peninsula,37.52388,-122.45053,Closed,Medium,5,2025-06-21,2025-07-20,0,C113,Electric,,,,
+WO200064,A100237,Gas Valve,Peninsula,37.36437,-122.2362,Deferred,Critical,10,2025-06-16,2025-07-25,13,,Gas,,,,
+WO200065,A100156,Regulator,North Bay,38.52998,-122.98112,Deferred,Critical,10,2025-05-25,2025-06-23,45,,Electric,,,,
+WO200066,A100176,Substation Equipment,East Bay,37.55732,-121.9212,Closed,Critical,9,2025-05-06,2025-06-13,0,C111,Electric,,,,
+WO200067,A100034,Transformer,North Bay,38.08495,-122.75966,In Progress,High,8,2025-07-04,2025-07-31,7,C105,Electric,,,,
+WO200068,A100144,Switchgear,Peninsula,37.38021,-122.38047,Open,Critical,10,2025-05-14,2025-06-30,38,,Electric,,,,
+WO200069,A100164,Pole,South Bay,37.10196,-122.2995,Closed,High,6,2025-07-23,2025-08-24,0,C113,Electric,,,,
+WO200070,A100199,Pole,Central Valley,36.96973,-120.95459,Open,Critical,10,2025-05-20,2025-07-02,36,,Electric,,,,
+WO200071,A100172,Regulator,South Bay,37.13798,-121.73177,Open,Critical,10,2025-06-20,2025-07-03,35,,Electric,,,,
+WO200072,A100238,Transformer,North Bay,38.54107,-122.65644,Deferred,Critical,10,2025-07-04,2025-09-01,0,,Electric,,,,
+WO200073,A100073,Transformer,Peninsula,37.41428,-122.34636,In Progress,Critical,10,2025-05-12,2025-07-07,31,C117,Electric,,,,
+WO200074,A100072,Transformer,Central Valley,37.28946,-120.76635,Assigned,Critical,9,2025-05-20,2025-07-05,33,C105,Electric,,,,
+WO200075,A100009,Feeder,North Bay,38.21626,-123.03296,In Progress,Critical,10,2025-05-09,2025-06-28,40,C120,Electric,,,,
+WO200076,A100194,Gas Valve,San Francisco,37.76994,-122.45511,Open,Critical,10,2025-05-02,2025-05-14,85,,Gas,,,,
+WO200077,A100197,Transformer,South Bay,37.44668,-122.1028,Assigned,Critical,10,2025-05-04,2025-06-20,48,C106,Electric,,,,
+WO200078,A100176,Substation Equipment,East Bay,37.8643,-121.8246,Open,Critical,10,2025-07-16,2025-09-03,0,,Electric,,,,
+WO200079,A100015,Feeder,Peninsula,37.60203,-122.38557,Closed,Critical,10,2025-07-24,2025-08-26,0,C101,Electric,,,,
+WO200080,A100174,Transformer,San Francisco,37.72959,-122.48422,Open,Critical,10,2025-06-11,2025-08-09,0,,Electric,,,,
+WO200081,A100138,Pole,San Francisco,37.79159,-122.3681,In Progress,High,7,2025-06-19,2025-07-31,7,C110,Electric,,,,
+WO200082,A100260,Feeder,Peninsula,37.47806,-122.19809,Open,Critical,10,2025-07-05,2025-08-07,0,,Electric,,,,
+WO200083,A100063,Pole,Peninsula,37.3792,-122.17209,In Progress,Medium,3,2025-07-26,2025-08-29,0,C119,Electric,,,,
+WO200084,A100137,Pole,South Bay,37.17529,-121.63571,In Progress,Critical,9,2025-07-22,2025-08-29,0,C102,Electric,,,,
+WO200085,A100259,Pole,Central Valley,37.72561,-121.13905,Closed,Critical,10,2025-04-14,2025-04-28,0,C114,Electric,,,,
+WO200086,A100115,Feeder,Central Valley,36.92904,-121.04188,Closed,Critical,10,2025-05-16,2025-07-06,0,C115,Electric,,,,
+WO200087,A100258,Substation Equipment,East Bay,37.82107,-121.61702,In Progress,Critical,10,2025-07-20,2025-07-27,11,C120,Electric,,,,
+WO200088,A100029,Transformer,East Bay,37.59895,-122.10412,Deferred,Critical,10,2025-05-14,2025-07-02,36,,Electric,,,,
+WO200089,A100122,Regulator,San Francisco,37.73006,-122.38828,Assigned,Critical,10,2025-05-29,2025-07-24,14,C104,Electric,,,,
+WO200090,A100280,Pole,San Francisco,37.79279,-122.51945,Assigned,Critical,10,2025-07-18,2025-09-04,0,C105,Electric,,,,
+WO200091,A100042,Regulator,San Francisco,37.76475,-122.50909,Assigned,Critical,10,2025-05-09,2025-05-16,83,C101,Electric,,,,
+WO200092,A100086,Regulator,Sierra,39.10112,-120.76469,Open,Critical,9,2025-05-02,2025-06-20,48,,Electric,,,,
+WO200093,A100016,Feeder,East Bay,37.62517,-122.12349,Open,Critical,10,2025-04-10,2025-04-22,107,,Electric,,,,
+WO200094,A100064,Pole,Peninsula,37.63905,-122.34335,Assigned,Medium,4,2025-07-13,2025-07-28,10,C109,Electric,,,,
+WO200095,A100194,Gas Valve,San Francisco,37.79068,-122.42101,Open,Critical,10,2025-04-27,2025-06-09,59,,Gas,,,,
+WO200096,A100231,Feeder,Peninsula,37.43088,-122.28599,Open,Critical,10,2025-04-26,2025-06-19,49,,Electric,,,,
+WO200097,A100139,Regulator,North Bay,38.02696,-123.18414,Closed,High,7,2025-07-22,2025-08-21,0,C105,Electric,,,,
+WO200098,A100213,Substation Equipment,Central Valley,37.66601,-121.33687,Open,Critical,10,2025-04-26,2025-06-20,48,,Electric,,,,
+WO200099,A100109,Regulator,South Bay,37.05479,-122.29256,In Progress,Critical,10,2025-05-09,2025-06-20,48,C115,Electric,,,,
+WO200100,A100037,Pole,San Francisco,37.80973,-122.38122,Closed,Low,1,2025-05-04,2025-05-27,0,C102,Electric,,,,
+WO200101,A100030,Pole,North Bay,38.04987,-122.64972,Open,Critical,10,2025-04-28,2025-05-07,92,,Electric,,,,
+WO200102,A100066,Transformer,San Francisco,37.76597,-122.40628,In Progress,Critical,9,2025-07-27,2025-09-13,0,C120,Electric,,,,
+WO200103,A100121,Pole,North Bay,38.52663,-123.06722,Assigned,Critical,10,2025-07-18,2025-08-18,0,C120,Electric,,,,
+WO200104,A100211,Switchgear,Sierra,38.66893,-120.0664,Assigned,Critical,10,2025-07-07,2025-09-05,0,C102,Electric,,,,
+WO200105,A100137,Pole,South Bay,37.26971,-122.05089,Deferred,Critical,10,2025-06-18,2025-07-18,20,,Electric,,,,
+WO200106,A100189,Transformer,East Bay,37.6004,-121.72433,Assigned,Critical,10,2025-04-26,2025-05-31,68,C106,Electric,,,,
+WO200107,A100192,Pole,Sierra,38.87965,-120.06738,Open,Critical,10,2025-07-10,2025-09-06,0,,Electric,,,,
+WO200108,A100075,Substation Equipment,East Bay,37.62697,-122.37999,In Progress,High,8,2025-05-07,2025-05-24,75,C114,Electric,,,,
+WO200109,A100275,Regulator,East Bay,37.94442,-121.9498,Closed,Critical,10,2025-05-28,2025-06-28,0,C115,Electric,,,,
+WO200110,A100259,Pole,Central Valley,37.42589,-121.00112,Closed,Critical,10,2025-06-24,2025-08-20,0,C111,Electric,,,,
+WO200111,A100236,Pole,South Bay,37.16758,-121.82984,Open,Critical,10,2025-06-21,2025-07-15,23,,Electric,,,,
+WO200112,A100248,Feeder,Peninsula,37.37457,-122.36993,Closed,Medium,4,2025-05-06,2025-06-27,0,C120,Electric,,,,
+WO200113,A100177,Pole,East Bay,37.87933,-121.75237,Closed,Critical,10,2025-06-16,2025-07-31,0,C101,Electric,,,,
+WO200114,A100099,Substation Equipment,Central Valley,37.69134,-120.54903,In Progress,Critical,9,2025-04-13,2025-04-29,100,C110,Electric,,,,
+WO200115,A100288,Pole,San Francisco,37.71378,-122.47615,Deferred,Critical,10,2025-05-15,2025-06-18,50,,Electric,,,,
+WO200116,A100139,Regulator,North Bay,38.17361,-122.55386,Assigned,High,8,2025-06-27,2025-07-28,10,C113,Electric,,,,
+WO200117,A100106,Regulator,Peninsula,37.50036,-122.23592,Closed,Critical,10,2025-05-12,2025-07-07,0,C115,Electric,,,,
+WO200118,A100183,Switchgear,South Bay,37.32569,-121.79261,Open,Critical,10,2025-06-22,2025-08-12,0,,Electric,,,,
+WO200119,A100163,Gas Valve,Central Valley,37.69194,-120.93076,Assigned,Critical,10,2025-06-25,2025-07-19,19,C119,Gas,,,,
+WO200120,A100266,Regulator,Sierra,39.15302,-121.02851,Closed,Critical,10,2025-04-15,2025-06-09,0,C102,Electric,,,,
+WO200121,A100228,Gas Valve,San Francisco,37.70873,-122.43997,Open,Critical,10,2025-06-22,2025-08-21,0,,Gas,,,,
+WO200122,A100068,Pole,San Francisco,37.79253,-122.44991,Open,Critical,10,2025-05-16,2025-06-01,67,,Electric,,,,
+WO200123,A100156,Regulator,North Bay,38.21176,-123.09617,Closed,Critical,10,2025-04-11,2025-06-08,0,C116,Electric,,,,
+WO200124,A100002,Feeder,San Francisco,37.7074,-122.48424,Open,Critical,10,2025-06-14,2025-07-25,13,,Electric,,,,
+WO200125,A100195,Regulator,Peninsula,37.32328,-122.48552,Closed,Critical,10,2025-05-19,2025-06-26,0,C107,Electric,,,,
+WO200126,A100204,Pole,Sierra,39.63874,-120.87165,Closed,Critical,10,2025-04-19,2025-06-13,0,C108,Electric,,,,
+WO200127,A100139,Regulator,North Bay,38.5804,-122.58783,Open,High,6,2025-06-19,2025-08-03,4,,Electric,,,,
+WO200128,A100035,Pole,North Bay,38.44574,-123.1764,In Progress,Critical,10,2025-06-08,2025-07-14,24,C109,Electric,,,,
+WO200129,A100071,Gas Valve,Central Valley,37.35669,-121.25772,Open,Critical,10,2025-05-14,2025-07-08,30,,Gas,,,,
+WO200130,A100121,Pole,North Bay,38.42742,-122.38841,In Progress,Critical,10,2025-06-09,2025-07-15,23,C118,Electric,,,,
+WO200131,A100236,Pole,South Bay,37.09222,-122.2354,Closed,Critical,9,2025-04-16,2025-05-15,0,C108,Electric,,,,
+WO200132,A100257,Gas Valve,East Bay,37.69693,-122.02516,In Progress,Critical,9,2025-06-08,2025-07-22,16,C109,Gas,,,,
+WO200133,A100113,Pole,Peninsula,37.61337,-122.49334,Assigned,Critical,10,2025-04-13,2025-05-23,76,C117,Electric,,,,
+WO200134,A100118,Transformer,South Bay,37.3992,-121.83666,Open,Medium,3,2025-05-14,2025-06-02,66,,Electric,,,,
+WO200135,A100161,Switchgear,South Bay,37.34355,-121.97782,Open,Critical,10,2025-07-04,2025-07-16,22,,Electric,,,,
+WO200136,A100145,Pole,East Bay,37.68618,-121.64809,Assigned,Critical,10,2025-04-30,2025-05-25,74,C119,Electric,,,,
+WO200137,A100042,Regulator,San Francisco,37.71854,-122.40893,Closed,Critical,10,2025-06-13,2025-07-15,0,C105,Electric,,,,
+WO200138,A100200,Gas Valve,Central Valley,36.65671,-121.03954,Deferred,High,6,2025-06-27,2025-07-06,32,,Gas,,,,
+WO200139,A100185,Feeder,San Francisco,37.78314,-122.36777,Closed,Critical,10,2025-05-26,2025-06-25,0,C112,Electric,,,,
+WO200140,A100072,Transformer,Central Valley,37.52659,-120.79241,Closed,High,8,2025-05-09,2025-06-14,0,C105,Electric,,,,
+WO200141,A100101,Substation Equipment,Sierra,39.54828,-120.65137,Open,High,7,2025-06-18,2025-08-02,5,,Electric,,,,
+WO200142,A100058,Transformer,Peninsula,37.63133,-122.21669,In Progress,Critical,10,2025-06-23,2025-08-02,5,C104,Electric,,,,
+WO200143,A100072,Transformer,Central Valley,36.82589,-120.75094,Deferred,Critical,9,2025-07-24,2025-08-13,0,,Electric,,,,
+WO200144,A100077,Substation Equipment,North Bay,38.39514,-122.34592,Assigned,Critical,10,2025-04-09,2025-05-22,77,C119,Electric,,,,
+WO200145,A100153,Pole,Peninsula,37.41557,-122.19884,Deferred,High,8,2025-07-01,2025-07-24,14,,Electric,,,,
+WO200146,A100072,Transformer,Central Valley,37.13074,-120.88334,Open,High,8,2025-06-23,2025-07-27,11,,Electric,,,,
+WO200147,A100128,Feeder,East Bay,37.71103,-122.07593,In Progress,Critical,10,2025-06-01,2025-07-27,11,C120,Electric,,,,
+WO200148,A100262,Transformer,Central Valley,37.95978,-120.64242,Closed,Critical,10,2025-07-12,2025-08-04,0,C111,Electric,,,,
+WO200149,A100209,Regulator,North Bay,38.42427,-122.64928,Assigned,Critical,10,2025-07-03,2025-07-21,17,C101,Electric,,,,
+WO200150,A100170,Switchgear,Central Valley,36.89079,-120.99319,In Progress,Critical,10,2025-07-22,2025-07-31,7,C115,Electric,,,,
+WO200151,A100006,Switchgear,San Francisco,37.74831,-122.4991,Closed,Critical,10,2025-05-27,2025-06-07,0,C113,Electric,,,,
+WO200152,A100294,Regulator,Peninsula,37.62876,-122.35042,Deferred,Critical,10,2025-07-13,2025-09-03,0,,Electric,,,,
+WO200153,A100093,Gas Valve,San Francisco,37.801,-122.3621,In Progress,Critical,10,2025-06-26,2025-07-23,15,C103,Gas,,,,
+WO200154,A100269,Regulator,North Bay,38.20567,-122.8571,Assigned,Critical,10,2025-05-04,2025-06-12,56,C115,Electric,,,,
+WO200155,A100071,Gas Valve,Central Valley,36.77502,-120.6533,Assigned,Critical,10,2025-04-11,2025-04-28,101,C108,Gas,,,,
+WO200156,A100182,Switchgear,North Bay,38.47544,-122.3575,Open,Critical,9,2025-04-27,2025-05-18,81,,Electric,,,,
+WO200157,A100254,Regulator,Peninsula,37.52666,-122.49946,Open,High,6,2025-06-26,2025-07-25,13,,Electric,,,,
+WO200158,A100255,Regulator,San Francisco,37.76848,-122.44493,Closed,Critical,10,2025-05-19,2025-05-27,0,C102,Electric,,,,
+WO200159,A100193,Feeder,Central Valley,36.97049,-121.40752,In Progress,Critical,9,2025-06-25,2025-08-21,0,C116,Electric,,,,
+WO200160,A100093,Gas Valve,San Francisco,37.7694,-122.49702,Open,Critical,10,2025-07-21,2025-08-03,4,,Gas,,,,
+WO200161,A100215,Regulator,Sierra,39.42761,-120.85201,Deferred,Critical,10,2025-04-23,2025-04-30,99,,Electric,,,,
+WO200162,A100074,Transformer,San Francisco,37.79113,-122.36555,Assigned,Critical,10,2025-05-03,2025-06-26,42,C119,Electric,,,,
+WO200163,A100030,Pole,North Bay,38.34866,-122.50908,In Progress,Critical,10,2025-06-02,2025-07-27,11,C116,Electric,,,,
+WO200164,A100089,Transformer,San Francisco,37.81749,-122.47618,Open,Critical,10,2025-06-17,2025-07-17,21,,Electric,,,,
+WO200165,A100152,Gas Valve,East Bay,37.564,-121.89196,Assigned,Critical,10,2025-07-13,2025-08-12,0,C106,Gas,,,,
+WO200166,A100078,Regulator,North Bay,38.01421,-122.42112,Closed,Critical,10,2025-06-02,2025-06-24,0,C101,Electric,,,,
+WO200167,A100162,Transformer,East Bay,37.90957,-122.34378,Closed,High,7,2025-05-30,2025-07-21,0,C102,Electric,,,,
+WO200168,A100203,Substation Equipment,North Bay,38.20018,-122.59995,Open,Critical,10,2025-07-08,2025-09-06,0,,Electric,,,,
+WO200169,A100293,Regulator,Peninsula,37.46758,-122.36646,Closed,Critical,10,2025-05-10,2025-06-09,0,C105,Electric,,,,
+WO200170,A100007,Substation Equipment,Peninsula,37.55445,-122.29571,Deferred,Medium,3,2025-04-20,2025-05-25,74,,Electric,,,,
+WO200171,A100283,Gas Valve,Peninsula,37.45304,-122.42832,Open,High,6,2025-06-09,2025-08-08,0,,Gas,,,,
+WO200172,A100015,Feeder,Peninsula,37.39688,-122.16144,Deferred,Critical,10,2025-07-19,2025-08-23,0,,Electric,,,,
+WO200173,A100278,Regulator,Sierra,38.82956,-120.14709,Open,High,8,2025-06-17,2025-08-15,0,,Electric,,,,
+WO200174,A100068,Pole,San Francisco,37.70302,-122.47441,Assigned,Critical,10,2025-07-14,2025-08-30,0,C111,Electric,,,,
+WO200175,A100227,Pole,East Bay,37.94494,-122.10004,Open,Medium,4,2025-06-30,2025-08-23,0,,Electric,,,,
+WO200176,A100193,Feeder,Central Valley,37.24487,-120.97367,In Progress,High,8,2025-04-28,2025-06-02,66,C105,Electric,,,,
+WO200177,A100238,Transformer,North Bay,38.38348,-123.19486,Open,Critical,10,2025-06-02,2025-06-18,50,,Electric,,,,
+WO200178,A100032,Feeder,San Francisco,37.77,-122.48898,Open,Critical,10,2025-06-06,2025-06-28,40,,Electric,,,,
+WO200179,A100130,Transformer,Central Valley,37.72478,-120.93116,Closed,Critical,10,2025-06-24,2025-08-06,0,C111,Electric,,,,
+WO200180,A100221,Pole,Central Valley,36.98126,-121.32765,Open,Critical,10,2025-04-17,2025-05-04,95,,Electric,,,,
+WO200181,A100042,Regulator,San Francisco,37.80416,-122.37473,Assigned,Critical,10,2025-07-15,2025-08-11,0,C116,Electric,,,,
+WO200182,A100256,Pole,San Francisco,37.74836,-122.41172,Deferred,High,7,2025-07-14,2025-07-30,8,,Electric,,,,
+WO200183,A100095,Gas Valve,East Bay,37.7712,-121.80205,Closed,Critical,10,2025-07-21,2025-09-06,0,C107,Gas,,,,
+WO200184,A100056,Regulator,East Bay,37.57283,-121.67595,Closed,High,6,2025-05-18,2025-06-24,0,C104,Electric,,,,
+WO200185,A100228,Gas Valve,San Francisco,37.77693,-122.51513,Open,Critical,10,2025-06-26,2025-08-20,0,,Gas,,,,
+WO200186,A100296,Regulator,Central Valley,36.83703,-120.63347,Deferred,Low,2,2025-06-12,2025-07-16,22,,Electric,,,,
+WO200187,A100223,Transformer,Sierra,38.54518,-120.59482,Open,Critical,10,2025-06-28,2025-07-20,18,,Electric,,,,
+WO200188,A100158,Switchgear,South Bay,37.03761,-122.28792,Closed,Critical,10,2025-06-21,2025-07-24,0,C102,Electric,,,,
+WO200189,A100167,Switchgear,San Francisco,37.7225,-122.4316,Deferred,Critical,10,2025-04-13,2025-06-05,63,,Electric,,,,
+WO200190,A100044,Gas Valve,Central Valley,37.92235,-121.27816,Open,Critical,10,2025-07-10,2025-08-26,0,,Gas,,,,
+WO200191,A100019,Gas Valve,Central Valley,36.70059,-121.14747,Assigned,Critical,10,2025-04-16,2025-05-25,74,C105,Gas,,,,
+WO200192,A100084,Transformer,San Francisco,37.80158,-122.47438,Closed,Critical,10,2025-06-02,2025-06-09,0,C117,Electric,,,,
+WO200193,A100009,Feeder,North Bay,38.34442,-122.95456,Assigned,Critical,9,2025-06-22,2025-07-10,28,C102,Electric,,,,
+WO200194,A100182,Switchgear,North Bay,38.22606,-123.10667,Open,Critical,10,2025-06-06,2025-06-26,42,,Electric,,,,
+WO200195,A100075,Substation Equipment,East Bay,37.98484,-122.37399,Closed,Critical,10,2025-07-05,2025-07-20,0,C117,Electric,,,,
+WO200196,A100221,Pole,Central Valley,36.5946,-120.99649,In Progress,Critical,10,2025-04-21,2025-05-12,87,C107,Electric,,,,
+WO200197,A100259,Pole,Central Valley,36.82896,-120.73647,Closed,Critical,10,2025-05-13,2025-05-25,0,C120,Electric,,,,
+WO200198,A100146,Transformer,Central Valley,37.21516,-121.44487,Closed,Medium,4,2025-04-26,2025-06-03,0,C106,Electric,,,,
+WO200199,A100207,Pole,Peninsula,37.59178,-122.14228,In Progress,Critical,10,2025-07-02,2025-07-17,21,C107,Electric,,,,
+WO200200,A100250,Feeder,Central Valley,36.57231,-120.54701,Open,Critical,10,2025-05-15,2025-06-10,58,,Electric,,,,
+WO200201,A100223,Transformer,Sierra,39.56464,-120.58146,Closed,Critical,10,2025-07-20,2025-09-09,0,C114,Electric,,,,
+WO200202,A100272,Feeder,North Bay,38.17534,-122.52753,Closed,Critical,10,2025-04-12,2025-06-04,0,C117,Electric,,,,
+WO200203,A100255,Regulator,San Francisco,37.77012,-122.36145,Assigned,Critical,10,2025-04-16,2025-05-15,84,C116,Electric,,,,
+WO200204,A100173,Feeder,San Francisco,37.7339,-122.4233,Assigned,Critical,10,2025-07-17,2025-07-24,14,C116,Electric,,,,
+WO200205,A100265,Pole,South Bay,37.47521,-121.81032,Open,Critical,10,2025-07-11,2025-08-29,0,,Electric,,,,
+WO200206,A100135,Transformer,South Bay,37.24898,-121.83589,Closed,Critical,10,2025-07-05,2025-08-17,0,C112,Electric,,,,
+WO200207,A100051,Gas Valve,Central Valley,37.73573,-120.72417,In Progress,Critical,10,2025-07-24,2025-08-10,0,C119,Gas,,,,
+WO200208,A100198,Substation Equipment,North Bay,38.60239,-122.95806,Assigned,Critical,10,2025-05-13,2025-05-20,79,C115,Electric,,,,
+WO200209,A100277,Pole,East Bay,37.53797,-121.81505,Open,Critical,10,2025-05-23,2025-06-03,65,,Electric,,,,
+WO200210,A100177,Pole,East Bay,37.69889,-122.36678,Closed,Critical,10,2025-04-28,2025-05-20,0,C111,Electric,,,,
+WO200211,A100149,Feeder,San Francisco,37.72905,-122.42311,Closed,Critical,10,2025-04-20,2025-06-11,0,C119,Electric,,,,
+WO200212,A100146,Transformer,Central Valley,37.98612,-121.26143,Assigned,Medium,5,2025-04-23,2025-05-03,96,C104,Electric,,,,
+WO200213,A100027,Regulator,South Bay,37.06837,-121.69872,Assigned,Critical,10,2025-04-26,2025-06-03,65,C101,Electric,,,,
+WO200214,A100168,Substation Equipment,San Francisco,37.73789,-122.51091,In Progress,Critical,10,2025-05-22,2025-07-19,19,C101,Electric,,,,
+WO200215,A100044,Gas Valve,Central Valley,36.61973,-120.81783,Open,Critical,10,2025-06-27,2025-07-09,29,,Gas,,,,
+WO200216,A100143,Substation Equipment,San Francisco,37.81322,-122.3976,Open,Critical,10,2025-07-05,2025-07-22,16,,Electric,,,,
+WO200217,A100253,Substation Equipment,Central Valley,37.1216,-121.13716,Closed,Critical,10,2025-06-26,2025-08-07,0,C101,Electric,,,,
+WO200218,A100194,Gas Valve,San Francisco,37.74157,-122.37637,Deferred,Critical,10,2025-07-26,2025-08-08,0,,Gas,,,,
+WO200219,A100290,Substation Equipment,South Bay,37.37648,-122.24532,Open,High,8,2025-04-25,2025-05-14,85,,Electric,,,,
+WO200220,A100070,Gas Valve,East Bay,37.64936,-121.71344,In Progress,Critical,9,2025-04-12,2025-05-27,72,C115,Gas,,,,
+WO200221,A100331,Pipeline Casing,North Bay,38.42049,-122.42072,In Progress,Low,3,2025-05-27,2025-07-03,35,C106,Gas,CPZ-418,N,7.0,High
+WO200222,A100301,Regulator Station,North Bay,38.48753,-122.94247,In Progress,Low,3,2025-07-18,2025-08-08,0,C102,Gas,CPZ-445,N,6.0,Medium
+WO200223,A100333,Test Station,Peninsula,37.67103,-122.2724,Assigned,Critical,10,2025-06-18,2025-08-01,6,C117,Gas,CPZ-200,N,10.0,Critical
+WO200224,A100335,Regulator Station,San Francisco,37.71991,-122.39504,Open,High,8,2025-05-25,2025-06-04,64,,Gas,CPZ-770,N,8.0,High
+WO200225,A100306,Anode Bed,East Bay,37.86223,-121.91118,Open,High,7,2025-04-19,2025-05-21,78,,Gas,CPZ-732,N,7.0,High
+WO200226,A100350,Pipeline Casing,South Bay,37.20578,-121.96328,Deferred,High,8,2025-05-16,2025-06-19,49,,Gas,CPZ-545,Y,9.0,Critical
+WO200227,A100357,Pipeline Casing,East Bay,37.60412,-122.04531,In Progress,Medium,6,2025-07-15,2025-09-11,0,C106,Gas,CPZ-713,Y,7.0,High
+WO200228,A100455,Test Station,North Bay,38.18503,-122.35075,Open,High,8,2025-06-16,2025-07-21,17,,Gas,CPZ-115,N,7.0,High
+WO200229,A100444,Pipeline Casing,South Bay,37.16811,-121.6029,Assigned,High,7,2025-06-27,2025-08-25,0,C118,Gas,CPZ-712,N,7.0,High
+WO200230,A100383,Anode Bed,San Francisco,37.72792,-122.40053,Open,Critical,10,2025-06-03,2025-07-17,21,,Gas,CPZ-206,Y,10.0,Critical
+WO200231,A100320,Test Station,North Bay,38.38807,-122.84994,Closed,Medium,6,2025-05-27,2025-07-25,0,C109,Gas,CPZ-290,N,8.0,High
+WO200232,A100466,Gas Distribution Main,San Francisco,37.76764,-122.37813,Deferred,Medium,4,2025-07-13,2025-08-14,0,,Gas,CPZ-636,N,6.0,Medium
+WO200233,A100359,Test Station,Sierra,38.53029,-120.95302,Open,High,8,2025-04-16,2025-05-14,85,,Gas,CPZ-194,Y,10.0,Critical
+WO200234,A100407,Anode Bed,Central Valley,37.64032,-121.26991,Open,Medium,6,2025-04-21,2025-06-03,65,,Gas,CPZ-664,N,7.0,High
+WO200235,A100497,Test Station,Central Valley,37.76358,-120.88583,Open,High,7,2025-04-23,2025-06-03,65,,Gas,CPZ-827,Y,10.0,Critical
+WO200236,A100427,Anode Bed,Sierra,39.41205,-120.61498,Assigned,High,8,2025-07-06,2025-07-17,21,C120,Gas,CPZ-724,N,7.0,High
+WO200237,A100479,Anode Bed,North Bay,38.66331,-122.44295,Closed,Medium,5,2025-06-20,2025-07-08,0,C105,Gas,CPZ-607,N,7.0,High
+WO200238,A100381,Launcher/Receiver,North Bay,38.19462,-122.53242,Open,High,8,2025-07-16,2025-08-13,0,,Gas,CPZ-904,Y,7.0,High
+WO200239,A100493,Launcher/Receiver,Central Valley,37.09013,-120.68767,Open,Medium,6,2025-04-14,2025-06-10,58,,Gas,CPZ-843,N,6.0,Medium
+WO200240,A100302,Gas Transmission Pipeline,South Bay,37.35973,-122.00383,In Progress,Medium,6,2025-06-03,2025-07-19,19,C113,Gas,CPZ-909,Y,7.0,High
+WO200241,A100345,Anode Bed,North Bay,38.26529,-122.59845,Deferred,High,8,2025-06-19,2025-07-06,32,,Gas,CPZ-647,N,8.0,High
+WO200242,A100332,Regulator Station,South Bay,37.22532,-121.91657,Deferred,Medium,5,2025-04-25,2025-06-11,57,,Gas,CPZ-559,N,4.0,Medium
+WO200243,A100498,Pipeline Casing,South Bay,37.23921,-122.13669,In Progress,Medium,6,2025-06-23,2025-07-03,35,C107,Gas,CPZ-889,N,7.0,High
+WO200244,A100451,Valve Station,South Bay,37.29381,-121.62285,Deferred,Critical,9,2025-06-05,2025-06-23,45,,Gas,CPZ-138,N,10.0,Critical
+WO200245,A100433,Gas Distribution Main,Central Valley,37.19772,-121.06501,Assigned,High,8,2025-04-23,2025-05-15,84,C112,Gas,CPZ-813,N,10.0,Critical
+WO200246,A100450,Anode Bed,South Bay,37.08167,-121.61111,Closed,Low,1,2025-06-17,2025-07-11,0,C120,Gas,CPZ-218,N,5.0,Medium
+WO200247,A100413,Test Station,Central Valley,37.13914,-121.19435,In Progress,High,7,2025-06-15,2025-07-30,8,C111,Gas,CPZ-425,N,8.0,High
+WO200248,A100442,Pipeline Casing,Peninsula,37.43079,-122.42824,In Progress,Critical,10,2025-07-06,2025-08-15,0,C114,Gas,CPZ-108,Y,10.0,Critical
+WO200249,A100355,Anode Bed,Central Valley,36.50832,-121.01509,Open,Low,2,2025-06-19,2025-08-01,6,,Gas,CPZ-687,N,6.0,Medium
+WO200250,A100405,Valve Station,South Bay,37.08278,-121.87112,Open,Medium,6,2025-04-28,2025-05-26,73,,Gas,CPZ-327,N,10.0,Critical
+WO200251,A100327,Test Station,North Bay,38.23707,-122.70287,Open,Critical,10,2025-05-18,2025-06-22,46,,Gas,CPZ-310,N,10.0,Critical
+WO200252,A100347,Gas Distribution Main,San Francisco,37.76512,-122.50932,Closed,Critical,10,2025-04-20,2025-06-12,0,C113,Gas,CPZ-554,Y,10.0,Critical
+WO200253,A100321,CP Rectifier,Central Valley,36.95715,-121.10181,In Progress,High,8,2025-05-22,2025-06-14,54,C113,Gas,CPZ-673,Y,10.0,Critical
+WO200254,A100457,Anode Bed,San Francisco,37.74061,-122.39614,Assigned,Medium,5,2025-06-20,2025-08-02,5,C110,Gas,CPZ-995,Y,8.0,High
+WO200255,A100324,Valve Station,East Bay,37.55295,-122.29528,Deferred,High,7,2025-04-19,2025-06-08,60,,Gas,CPZ-340,N,10.0,Critical
+WO200256,A100384,Service Line/Riser,South Bay,37.41029,-121.97455,Assigned,Medium,6,2025-07-19,2025-08-19,0,C109,Gas,CPZ-782,N,8.0,High
+WO200257,A100348,Regulator Station,South Bay,37.05132,-121.81012,Open,High,7,2025-06-06,2025-06-26,42,,Gas,CPZ-452,N,8.0,High
+WO200258,A100430,Test Station,South Bay,37.32408,-121.6991,Closed,High,8,2025-05-28,2025-06-25,0,C104,Gas,CPZ-365,N,9.0,Critical
+WO200259,A100310,CP Rectifier,Peninsula,37.67766,-122.29927,In Progress,Medium,6,2025-04-18,2025-05-15,84,C114,Gas,CPZ-429,N,7.0,High
+WO200260,A100385,Anode Bed,San Francisco,37.73991,-122.36741,Closed,Medium,4,2025-04-15,2025-05-26,0,C115,Gas,CPZ-516,N,6.0,Medium
+WO200261,A100488,Pipeline Casing,Sierra,38.59744,-120.35949,Assigned,Critical,9,2025-04-29,2025-06-09,59,C104,Gas,CPZ-770,N,9.0,Critical
+WO200262,A100431,Anode Bed,Central Valley,37.59969,-120.89477,Assigned,Medium,6,2025-07-01,2025-08-10,0,C111,Gas,CPZ-925,Y,10.0,Critical
+WO200263,A100349,Regulator Station,Sierra,39.45076,-120.62567,Closed,High,8,2025-05-05,2025-06-24,0,C110,Gas,CPZ-886,N,9.0,Critical
+WO200264,A100439,Gas Transmission Pipeline,North Bay,38.02217,-123.06344,Assigned,Medium,6,2025-06-17,2025-07-14,24,C102,Gas,CPZ-668,Y,10.0,Critical
+WO200265,A100492,Pipeline Casing,Central Valley,37.38131,-120.91586,In Progress,Medium,4,2025-06-12,2025-07-20,18,C113,Gas,CPZ-163,N,3.0,Low
+WO200266,A100409,Launcher/Receiver,Central Valley,37.17663,-121.2129,Closed,Critical,9,2025-06-22,2025-07-25,0,C111,Gas,CPZ-737,N,10.0,Critical
+WO200267,A100440,CP Rectifier,Sierra,39.59061,-121.0894,In Progress,Critical,10,2025-05-27,2025-07-21,17,C119,Gas,CPZ-449,N,9.0,Critical
+WO200268,A100459,Test Station,Peninsula,37.67809,-122.38397,In Progress,Low,3,2025-05-05,2025-05-16,83,C108,Gas,CPZ-395,N,7.0,High
+WO200269,A100305,Gas Transmission Pipeline,San Francisco,37.76379,-122.43491,In Progress,Medium,5,2025-06-12,2025-06-30,38,C117,Gas,CPZ-657,N,7.0,High
+WO200270,A100367,Gas Distribution Main,Peninsula,37.34957,-122.26141,Closed,Medium,5,2025-05-27,2025-06-03,0,C104,Gas,CPZ-877,N,7.0,High
+WO200271,A100447,Gas Distribution Main,San Francisco,37.75448,-122.46152,Closed,Medium,6,2025-06-14,2025-07-01,0,C119,Gas,CPZ-741,N,6.0,Medium
+WO200272,A100303,Anode Bed,San Francisco,37.74118,-122.40335,Closed,High,8,2025-07-25,2025-09-11,0,C105,Gas,CPZ-753,N,10.0,Critical
+WO200273,A100414,Regulator Station,North Bay,38.56282,-122.42811,Assigned,Critical,10,2025-06-13,2025-07-05,33,C101,Gas,CPZ-399,Y,10.0,Critical
+WO200274,A100443,Pipeline Casing,North Bay,38.24855,-122.34127,In Progress,Critical,9,2025-07-23,2025-09-13,0,C103,Gas,CPZ-529,N,8.0,High
+WO200275,A100495,Test Station,South Bay,37.33697,-121.62093,In Progress,High,7,2025-06-02,2025-06-22,46,C107,Gas,CPZ-983,N,8.0,High
+WO200276,A100410,Launcher/Receiver,Sierra,39.23462,-120.01532,Open,High,8,2025-05-18,2025-06-13,55,,Gas,CPZ-386,N,9.0,Critical
+WO200277,A100403,Pipeline Casing,East Bay,37.73367,-122.09991,Open,Critical,10,2025-06-19,2025-07-27,11,,Gas,CPZ-640,N,10.0,Critical
+WO200278,A100467,Test Station,Central Valley,36.87767,-120.97612,Assigned,Critical,9,2025-05-23,2025-07-06,32,C108,Gas,CPZ-572,N,9.0,Critical
+WO200279,A100477,Valve Station,North Bay,38.69156,-122.44819,Assigned,High,8,2025-05-01,2025-05-12,87,C105,Gas,CPZ-199,Y,7.0,High
+WO200280,A100468,Test Station,Sierra,39.10159,-120.52374,In Progress,Critical,10,2025-05-18,2025-06-04,64,C111,Gas,CPZ-116,Y,9.0,Critical
+WO200281,A100463,CP Rectifier,Sierra,39.53193,-121.16542,In Progress,High,8,2025-07-16,2025-09-03,0,C111,Gas,CPZ-824,N,10.0,Critical
+WO200282,A100432,Gas Transmission Pipeline,South Bay,37.02045,-121.93872,Open,Critical,9,2025-06-19,2025-07-16,22,,Gas,CPZ-764,Y,10.0,Critical
+WO200283,A100435,Gas Distribution Main,San Francisco,37.70331,-122.51489,Open,Critical,10,2025-06-06,2025-06-24,44,,Gas,CPZ-856,N,9.0,Critical
+WO200284,A100423,Test Station,South Bay,37.31396,-122.27317,In Progress,High,7,2025-05-07,2025-05-25,74,C107,Gas,CPZ-462,N,9.0,Critical
+WO200285,A100408,Gas Transmission Pipeline,East Bay,37.8663,-121.85752,Open,Critical,10,2025-06-20,2025-07-14,24,,Gas,CPZ-932,N,10.0,Critical
+WO200286,A100397,Anode Bed,San Francisco,37.73163,-122.47656,Assigned,High,8,2025-04-23,2025-05-25,74,C107,Gas,CPZ-595,N,10.0,Critical
+WO200287,A100436,Anode Bed,North Bay,38.67196,-122.41097,In Progress,High,7,2025-05-06,2025-06-26,42,C117,Gas,CPZ-159,N,8.0,High
+WO200288,A100346,Pipeline Casing,East Bay,37.5161,-121.80418,In Progress,Critical,9,2025-05-10,2025-06-23,45,C114,Gas,CPZ-741,N,9.0,Critical
+WO200289,A100394,Gas Distribution Main,Peninsula,37.38245,-122.43397,Closed,High,7,2025-05-16,2025-07-08,0,C117,Gas,CPZ-167,N,10.0,Critical
+WO200290,A100437,Service Line/Riser,South Bay,37.22859,-122.14394,In Progress,Critical,9,2025-07-22,2025-08-17,0,C119,Gas,CPZ-622,Y,10.0,Critical
+WO200291,A100371,Regulator Station,Central Valley,37.33405,-120.99944,In Progress,Medium,5,2025-07-01,2025-08-03,4,C109,Gas,CPZ-476,N,8.0,High
+WO200292,A100382,Launcher/Receiver,San Francisco,37.76516,-122.40896,Assigned,Medium,4,2025-06-10,2025-07-10,28,C104,Gas,CPZ-309,N,2.0,Low
+WO200293,A100352,Pipeline Casing,Peninsula,37.39464,-122.13327,Assigned,Low,3,2025-05-30,2025-06-19,49,C108,Gas,CPZ-862,N,8.0,High
+WO200294,A100318,Gas Transmission Pipeline,South Bay,37.00806,-121.8839,Assigned,High,8,2025-06-11,2025-07-17,21,C114,Gas,CPZ-727,N,7.0,High
+WO200295,A100473,Test Station,Sierra,39.16529,-120.03163,Open,Medium,4,2025-05-04,2025-06-27,41,,Gas,CPZ-151,Y,5.0,Medium
+WO200296,A100330,Gas Transmission Pipeline,South Bay,37.40348,-122.02394,In Progress,High,7,2025-07-19,2025-08-03,4,C114,Gas,CPZ-345,N,10.0,Critical
+WO200297,A100372,Valve Station,Peninsula,37.67098,-122.42065,Assigned,Critical,10,2025-04-12,2025-06-03,65,C104,Gas,CPZ-842,N,10.0,Critical
+WO200298,A100358,Anode Bed,North Bay,38.1337,-122.32926,In Progress,High,7,2025-07-16,2025-09-07,0,C105,Gas,CPZ-643,N,6.0,Medium
+WO200299,A100485,Test Station,San Francisco,37.78279,-122.45051,In Progress,Medium,5,2025-07-15,2025-07-31,7,C111,Gas,CPZ-165,N,10.0,Critical
+WO200300,A100449,Gas Distribution Main,Peninsula,37.38282,-122.23778,Open,High,7,2025-06-09,2025-07-13,25,,Gas,CPZ-220,Y,8.0,High
+WO200301,A100480,Gas Transmission Pipeline,Peninsula,37.3985,-122.41786,Open,Critical,10,2025-06-11,2025-08-01,6,,Gas,CPZ-202,N,9.0,Critical
+WO200302,A100344,Test Station,North Bay,38.65235,-122.67604,Open,High,7,2025-07-02,2025-08-05,2,,Gas,CPZ-457,N,6.0,Medium
+WO200303,A100462,Pipeline Casing,North Bay,38.13726,-123.17539,Assigned,Critical,9,2025-04-28,2025-06-21,47,C118,Gas,CPZ-518,Y,10.0,Critical
+WO200304,A100401,Launcher/Receiver,South Bay,37.26174,-122.22364,In Progress,Medium,4,2025-07-14,2025-08-04,3,C119,Gas,CPZ-111,N,7.0,High
+WO200305,A100483,Regulator Station,North Bay,38.0099,-122.43712,Closed,Medium,6,2025-04-13,2025-04-28,0,C110,Gas,CPZ-862,N,4.0,Medium
+WO200306,A100338,CP Rectifier,San Francisco,37.76788,-122.50642,Open,High,8,2025-04-12,2025-06-07,61,,Gas,CPZ-141,N,7.0,High
+WO200307,A100309,CP Rectifier,Peninsula,37.47033,-122.3751,Open,Critical,10,2025-07-15,2025-08-05,2,,Gas,CPZ-411,Y,10.0,Critical
+WO200308,A100315,CP Rectifier,Sierra,39.55055,-120.63645,In Progress,Critical,10,2025-05-29,2025-06-10,58,C113,Gas,CPZ-149,N,9.0,Critical
+WO200309,A100481,Valve Station,East Bay,37.66245,-122.31983,Open,High,8,2025-06-22,2025-08-15,0,,Gas,CPZ-880,N,10.0,Critical
+WO200310,A100490,Test Station,Sierra,39.27642,-120.97533,Open,Medium,6,2025-06-17,2025-07-08,30,,Gas,CPZ-869,N,6.0,Medium
+WO200311,A100312,Test Station,Central Valley,37.22455,-120.51444,Open,Critical,10,2025-04-27,2025-05-12,87,,Gas,CPZ-723,N,10.0,Critical
+WO200312,A100354,Gas Distribution Main,Central Valley,36.85737,-120.69221,In Progress,Low,3,2025-06-16,2025-08-05,2,C110,Gas,CPZ-371,N,9.0,Critical
+WO200313,A100307,Gas Distribution Main,North Bay,38.25325,-122.99456,In Progress,Low,3,2025-06-26,2025-08-05,2,C118,Gas,CPZ-868,N,6.0,Medium
+WO200314,A100325,Gas Distribution Main,South Bay,37.42325,-121.91272,Open,Medium,6,2025-07-02,2025-07-21,17,,Gas,CPZ-228,N,7.0,High
+WO200315,A100308,Pipeline Casing,North Bay,38.06447,-122.80967,Closed,Medium,4,2025-06-23,2025-08-08,0,C103,Gas,CPZ-771,N,6.0,Medium
+WO200316,A100389,CP Rectifier,South Bay,37.10533,-122.00516,Open,Critical,9,2025-05-09,2025-06-23,45,,Gas,CPZ-295,Y,9.0,Critical
+WO200317,A100476,Gas Transmission Pipeline,San Francisco,37.79932,-122.46373,In Progress,Medium,6,2025-06-11,2025-08-01,6,C104,Gas,CPZ-921,N,6.0,Medium
+WO200318,A100484,Anode Bed,Peninsula,37.40721,-122.1039,Closed,Medium,5,2025-06-22,2025-08-04,0,C114,Gas,CPZ-203,N,9.0,Critical
+WO200319,A100336,Regulator Station,San Francisco,37.77983,-122.50218,Open,Medium,6,2025-07-19,2025-08-16,0,,Gas,CPZ-699,Y,7.0,High
+WO200320,A100429,Pipeline Casing,Peninsula,37.47675,-122.37263,Deferred,Medium,4,2025-07-04,2025-08-06,1,,Gas,CPZ-539,N,7.0,High
+WO200321,A100376,Gas Distribution Main,East Bay,37.96883,-121.67359,Open,High,8,2025-06-30,2025-07-26,12,,Gas,CPZ-867,N,10.0,Critical
+WO200322,A100487,Pipeline Casing,East Bay,37.54167,-122.24295,Closed,Critical,9,2025-04-27,2025-05-11,0,C111,Gas,CPZ-529,N,10.0,Critical
+WO200323,A100400,Launcher/Receiver,South Bay,37.01029,-121.65733,Closed,Medium,5,2025-06-16,2025-06-30,0,C102,Gas,CPZ-692,N,7.0,High
+WO200324,A100379,Gas Transmission Pipeline,San Francisco,37.71409,-122.47183,Open,Critical,9,2025-06-30,2025-07-26,12,,Gas,CPZ-883,N,6.0,Medium
+WO200325,A100424,Regulator Station,East Bay,37.78379,-122.25934,Assigned,Critical,10,2025-06-30,2025-08-02,5,C108,Gas,CPZ-594,N,9.0,Critical
+WO200326,A100434,Gas Transmission Pipeline,North Bay,38.368,-122.79838,Open,Critical,10,2025-05-24,2025-06-28,40,,Gas,CPZ-252,N,10.0,Critical
+WO200327,A100375,Test Station,South Bay,37.19494,-121.77164,Assigned,High,7,2025-07-18,2025-09-06,0,C117,Gas,CPZ-591,Y,10.0,Critical
+WO200328,A100426,Gas Distribution Main,East Bay,37.69287,-122.2011,Closed,Medium,4,2025-07-08,2025-08-19,0,C107,Gas,CPZ-428,N,7.0,High
+WO200329,A100421,Launcher/Receiver,Central Valley,37.59062,-120.82887,Closed,Medium,4,2025-04-16,2025-05-12,0,C105,Gas,CPZ-589,Y,5.0,Medium
+WO200330,A100390,Valve Station,Central Valley,37.18441,-121.2202,In Progress,Critical,9,2025-04-27,2025-05-12,87,C107,Gas,CPZ-876,N,8.0,High
+WO200331,A100340,Anode Bed,Central Valley,37.62747,-121.42085,In Progress,Medium,5,2025-06-16,2025-08-01,6,C110,Gas,CPZ-830,N,4.0,Medium
+WO200332,A100364,Valve Station,East Bay,37.9438,-122.38711,Open,Medium,5,2025-04-10,2025-06-05,63,,Gas,CPZ-568,N,9.0,Critical
+WO200333,A100456,Regulator Station,Central Valley,36.64574,-121.29322,Closed,Low,1,2025-06-29,2025-07-07,0,C104,Gas,CPZ-262,N,4.0,Medium
+WO200334,A100366,Service Line/Riser,Peninsula,37.44238,-122.12809,Assigned,Critical,9,2025-04-16,2025-05-16,83,C112,Gas,CPZ-445,Y,8.0,High
+WO200335,A100378,Regulator Station,South Bay,37.44114,-121.72439,In Progress,Medium,5,2025-04-10,2025-05-21,78,C111,Gas,CPZ-548,N,4.0,Medium
+WO200336,A100417,Gas Distribution Main,Central Valley,37.98872,-121.40115,Assigned,Medium,4,2025-06-25,2025-07-25,13,C119,Gas,CPZ-478,N,5.0,Medium
+WO200337,A100472,Launcher/Receiver,Sierra,39.20308,-120.21399,Assigned,Critical,10,2025-04-17,2025-04-27,102,C106,Gas,CPZ-640,Y,9.0,Critical
+WO200338,A100415,Test Station,South Bay,37.16991,-121.88345,Assigned,Critical,10,2025-07-05,2025-07-24,14,C113,Gas,CPZ-398,Y,10.0,Critical
+WO200339,A100406,Gas Transmission Pipeline,Sierra,38.91942,-120.93935,Open,Medium,5,2025-07-26,2025-08-15,0,,Gas,CPZ-819,N,7.0,High
+WO200340,A100471,Regulator Station,Sierra,38.88907,-120.31929,Open,Medium,6,2025-06-29,2025-08-12,0,,Gas,CPZ-853,N,8.0,High

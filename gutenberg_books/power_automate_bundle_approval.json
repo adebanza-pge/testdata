@@ -1,0 +1,13 @@
+{
+  "name": "Bundle Approval via Teams Adaptive Card",
+  "trigger": {
+    "type": "SP.WhenItemCreatedOrModified",
+    "listName": "WorkOrders"
+  },
+  "steps": [
+    "Bounding box filter",
+    "Filter guardrails",
+    "Post adaptive card",
+    "On approve create BundleSuggestions row"
+  ]
+}

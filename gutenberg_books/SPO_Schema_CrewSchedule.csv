@@ -1,0 +1,6 @@
+InternalName,DisplayName,Type,Description
+ScheduleID,ScheduleID,Single line of text,Sched ID
+CrewID,CrewID,Lookup,Crew
+Date,Date,Date and Time,Date
+AssignedWorkOrderID,AssignedWorkOrderID,Lookup,WO
+HoursAssigned,HoursAssigned,Number,Hours

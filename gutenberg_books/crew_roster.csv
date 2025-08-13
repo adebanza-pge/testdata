@@ -1,0 +1,25 @@
+CrewID,Title,Region,Specialty,CapacityHoursPerDay,UtilizationPct,Phone
+C101,North Bay Crew 1,North Bay,Substation,8,78,(555) 0100-1200
+C102,North Bay Crew 2,North Bay,Gas,8,62,(555) 0101-1210
+C103,North Bay Crew 3,North Bay,Gas,8,86,(555) 0102-1220
+C104,North Bay Crew 4,North Bay,Substation,8,87,(555) 0103-1230
+C111,East Bay Crew 1,East Bay,Substation,8,62,(555) 0110-1201
+C112,East Bay Crew 2,East Bay,Gas,8,65,(555) 0111-1211
+C113,East Bay Crew 3,East Bay,Electric,8,88,(555) 0112-1221
+C114,East Bay Crew 4,East Bay,Gas,8,67,(555) 0113-1231
+C121,South Bay Crew 1,South Bay,Electric,8,74,(555) 0120-1202
+C122,South Bay Crew 2,South Bay,Electric,8,63,(555) 0121-1212
+C123,South Bay Crew 3,South Bay,Gas,8,61,(555) 0122-1222
+C124,South Bay Crew 4,South Bay,Electric,8,74,(555) 0123-1232
+C131,San Francisco Crew 1,San Francisco,Substation,8,69,(555) 0130-1203
+C132,San Francisco Crew 2,San Francisco,Electric,8,62,(555) 0131-1213
+C133,San Francisco Crew 3,San Francisco,Electric,8,60,(555) 0132-1223
+C134,San Francisco Crew 4,San Francisco,Substation,8,88,(555) 0133-1233
+C141,Central Coast Crew 1,Central Coast,Substation,8,83,(555) 0140-1204
+C142,Central Coast Crew 2,Central Coast,Gas,8,90,(555) 0141-1214
+C143,Central Coast Crew 3,Central Coast,Substation,8,82,(555) 0142-1224
+C144,Central Coast Crew 4,Central Coast,Electric,8,73,(555) 0143-1234
+C151,Sierra Crew 1,Sierra,Substation,8,68,(555) 0150-1205
+C152,Sierra Crew 2,Sierra,Substation,8,75,(555) 0151-1215
+C153,Sierra Crew 3,Sierra,Gas,8,92,(555) 0152-1225
+C154,Sierra Crew 4,Sierra,Electric,8,68,(555) 0153-1235

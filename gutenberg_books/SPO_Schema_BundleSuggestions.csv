@@ -1,0 +1,10 @@
+InternalName,DisplayName,Type,Description
+Title,Title,Single line of text,Bundle title
+AnchorWorkOrderID,AnchorWorkOrderID,Single line of text,Anchor WO
+AnchorDueDate,AnchorDueDate,Date and Time,Due
+AnchorRegionOrCell,AnchorRegionOrCell,Single line of text,Region/cell
+CandidateList,CandidateList,Multiple lines of text,JSON array of WO IDs
+Decision,Decision,Choice,Proposed/Accepted/Rejected
+ProposedDate,ProposedDate,Date and Time,Proposed
+Approver,Approver,Person or Group,Approver
+Notes,Notes,Multiple lines of text,Notes

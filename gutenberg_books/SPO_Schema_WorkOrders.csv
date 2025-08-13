@@ -1,0 +1,16 @@
+InternalName,DisplayName,Type,Description
+Title,Title,Single line of text,WO title
+WorkOrderID,WorkOrderID,Single line of text,WO ID
+AssetID,AssetID,Single line of text,Asset ID
+Region,Region,Choice,Region
+Latitude,Latitude,Number,Latitude
+Longitude,Longitude,Number,Longitude
+Status,Status,Choice,Open/Assigned/In Progress/Closed/Deferred
+Priority,Priority,Choice,Low/Medium/High/Critical
+CreatedDate,CreatedDate,Date and Time,Created
+DueDate,DueDate,Date and Time,Due
+DaysOverdue,DaysOverdue,Number,Days overdue
+AssignedCrewID,AssignedCrewID,Single line of text,Crew
+BundleGroupID,BundleGroupID,Single line of text,Anchor WO for accepted bundle
+BundleDecision,BundleDecision,Choice,Proposed/Accepted/Rejected
+BundledAt,BundledAt,Date and Time,When bundle applied

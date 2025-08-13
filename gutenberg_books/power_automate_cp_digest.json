@@ -1,0 +1,26 @@
+{
+  "name": "Weekly CP Underprotection Digest",
+  "trigger": {
+    "type": "Recurrence",
+    "frequency": "Week",
+    "time": "07:00",
+    "weekDays": [
+      "Monday"
+    ]
+  },
+  "steps": [
+    {
+      "type": "SharePoint.GetItems",
+      "listName": "Assets",
+      "filter": "CPStatus eq 'Underprotected'"
+    },
+    {
+      "type": "Office365.SendEmail",
+      "to": "RegionalManagers@pge.com",
+      "subject": "Weekly Digest \u2013 Underprotected CP Assets",
+      "attachments": [
+        "Underprotected_CP_Digest.csv"
+      ]
+    }
+  ]
+}

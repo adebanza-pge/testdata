@@ -1,0 +1,44 @@
+# Starter Pack Contents
+
+- CONTENTS.md
+- DAX_WhatIf_and_BundlingMeasures.txt
+- README.md
+- README_Bundling.md
+- README_Integration_Guide.md
+- README_Integration_Guide_MASTER.md
+- README_PowerBI_Instructions.md
+- SPO_Schema_Assets.csv
+- SPO_Schema_BundleSuggestions.csv
+- SPO_Schema_CrewRoster.csv
+- SPO_Schema_CrewSchedule.csv
+- SPO_Schema_Regions.csv
+- SPO_Schema_WorkOrders.csv
+- Screenshot 2025-08-12 at 5.48.18 PM.png
+- adaptive_card_bundle_approval.json
+- asset_registry.csv
+- bundle_apply_updates_flow_diagram.png
+- bundle_approval_flow_diagram.png
+- bundling_priority_mix.png
+- bundling_suggestions.csv
+- bundling_summary.csv
+- bundling_top_anchors.png
+- corrosion_risk_weights.csv
+- corrosion_risk_weights.json
+- cp_digest_flow_diagram.png
+- crew_roster.csv
+- crew_schedule.csv
+- eda_shap_explainability.ipynb
+- generate_bundling_suggestions.py
+- labels_gas_corrosion.csv
+- model_metrics.json
+- pitch_deck.pptx
+- power_automate_bundle_apply_updates.json
+- power_automate_bundle_approval.json
+- power_automate_cp_digest.json
+- powerbi_theme.json
+- predictions_gas_corrosion.csv
+- predictive_model_training.ipynb
+- regions.csv
+- rubric_weights_bar.png
+- training_dataset_gas.csv
+- work_orders.csv

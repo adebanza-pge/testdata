@@ -1,0 +1,36 @@
+{
+  "baseline": 2.0,
+  "SoilCorrosivityIndex": 1.0,
+  "CPStatus": {
+    "Underprotected": 2.0,
+    "Adequate": 0.0,
+    "Overprotected": 0.5,
+    "Unknown": 0.5
+  },
+  "CoatingType": {
+    "Coal Tar": 1.5,
+    "Tape Wrap": 1.5,
+    "None/Unknown": 2.0,
+    "Asphalt Enamel": 1.0,
+    "FBE": 0.0,
+    "N/A": 0.5
+  },
+  "PipeToSoilPotential_mV": {
+    "threshold": -850,
+    "adder": 1.5
+  },
+  "LeakHistoryCount": 1.0,
+  "HCA_Flag": {
+    "Y": 1.0,
+    "N": 0.0,
+    "N/A": 0.0
+  },
+  "Material": {
+    "Steel": 0.5,
+    "PE": 0.0,
+    "Cast Iron": 1.0,
+    "Wrought Iron": 1.0,
+    "N/A": 0.0
+  },
+  "AgeYears": 0.02
+}

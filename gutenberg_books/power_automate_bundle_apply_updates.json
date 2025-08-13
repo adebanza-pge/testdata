@@ -1,0 +1,12 @@
+{
+  "name": "Bundle Apply Updates",
+  "trigger": {
+    "type": "SP.WhenItemCreated",
+    "listName": "BundleSuggestions"
+  },
+  "steps": [
+    "If Decision=Accepted",
+    "Parse CandidateList",
+    "Loop update WorkOrders with BundleGroupID"
+  ]
+}

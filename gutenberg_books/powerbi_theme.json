@@ -1,0 +1,14 @@
+{
+  "name": "PG&E Grid Theme",
+  "foreground": "#1f2a44",
+  "background": "#ffffff",
+  "dataColors": [
+    "#0b84a5",
+    "#f6c85f",
+    "#6f4e7c",
+    "#9dd866",
+    "#ca472f",
+    "#2a9d8f",
+    "#8ecae6"
+  ]
+}

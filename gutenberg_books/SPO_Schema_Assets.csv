@@ -1,0 +1,10 @@
+InternalName,DisplayName,Type,Description
+Title,Title,Single line of text,Asset label
+AssetID,AssetID,Single line of text,ID
+Commodity,Commodity,Choice,Gas/Electric
+System,System,Choice,Transmission/Distribution/N/A
+Region,Region,Choice,Region
+Latitude,Latitude,Number,Lat
+Longitude,Longitude,Number,Lon
+CPStatus,CPStatus,Choice,Adequate/Underprotected/Overprotected/Unknown
+CPZoneID,CPZoneID,Single line of text,CP Zone

@@ -1,0 +1,24 @@
+Factor,Condition,Weight
+baseline,constant,2.0
+SoilCorrosivityIndex,+1 per unit over 1,1.0
+CPStatus,Underprotected,2.0
+CPStatus,Adequate,0.0
+CPStatus,Overprotected,0.5
+CPStatus,Unknown,0.5
+CoatingType,Coal Tar,1.5
+CoatingType,Tape Wrap,1.5
+CoatingType,None/Unknown,2.0
+CoatingType,Asphalt Enamel,1.0
+CoatingType,FBE,0.0
+CoatingType,N/A,0.5
+PipeToSoilPotential_mV,>-850 mV,1.5
+LeakHistoryCount,+1 per leak,1.0
+HCA_Flag,Y,1.0
+HCA_Flag,N,0.0
+HCA_Flag,N/A,0.0
+Material,Steel,0.5
+Material,PE,0.0
+Material,Cast Iron,1.0
+Material,Wrought Iron,1.0
+Material,N/A,0.0
+AgeYears,+ per year,0.02

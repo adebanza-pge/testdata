@@ -1,0 +1,4 @@
+InternalName,DisplayName,Type,Description
+Region,Region,Single line of text,Region key
+Manager,Manager,Person or Group,Manager
+Email,Email,Single line of text,Email

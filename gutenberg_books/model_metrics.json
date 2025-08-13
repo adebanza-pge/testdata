@@ -1,0 +1,7 @@
+{
+  "ModelUsed": "LogisticRegression",
+  "AUC_ROC": 0.4461709211986682,
+  "AveragePrecision": 0.13927583462541293,
+  "HoldoutSize": 123,
+  "PositiveRate_Test": 0.13821138211382114
+}

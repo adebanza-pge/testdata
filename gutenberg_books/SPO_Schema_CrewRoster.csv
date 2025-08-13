@@ -1,0 +1,7 @@
+InternalName,DisplayName,Type,Description
+CrewID,CrewID,Single line of text,Crew ID
+Region,Region,Choice,Region
+Specialty,Specialty,Choice,Electric/Gas/Substation
+CapacityHoursPerDay,CapacityHoursPerDay,Number,Hours/day
+UtilizationPct,UtilizationPct,Number,Utilization %
+Phone,Phone,Single line of text,Contact

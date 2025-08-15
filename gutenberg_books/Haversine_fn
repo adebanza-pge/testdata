@@ -1,0 +1,13 @@
+(fnLat1 as number, fnLon1 as number, fnLat2 as number, fnLon2 as number) as number =>
+let
+  R = 3958.8,
+  toRad = (x as number) => x * Number.PI / 180,
+  dLat = toRad(fnLat2 - fnLat1),
+  dLon = toRad(fnLon2 - fnLon1),
+  a = Number.Sin(dLat/2)*Number.Sin(dLat/2) +
+      Number.Cos(toRad(fnLat1))*Number.Cos(toRad(fnLat2))*
+      Number.Sin(dLon/2)*Number.Sin(dLon/2),
+  c = 2 * Number.Atan2(Number.Sqrt(a), Number.Sqrt(1 - a)),
+  d = R * c
+in
+  d

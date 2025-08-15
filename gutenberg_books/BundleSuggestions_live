@@ -1,0 +1,62 @@
+let
+  // ---- Tunable defaults (Power Query side) ----
+  RadiusMiles = 5.0,
+  AnchorDays = 21,
+  LookaheadDays = 180,
+  HighWindowDays = 30,
+  OverheadHoursPerTrip = 0.6,
+  AvgSpeedMph = 25.0,
+  EarlyPenaltyPerDay = 0.005,
+
+  Source = WorkOrders,
+  Active = Table.SelectRows(Source, each 
+      List.Contains({"Open","Assigned","In Progress","Deferred"}, [Status]) 
+      and [DueDate] <> null and [Latitude] <> null and [Longitude] <> null),
+
+  AddDaysUntil = Table.AddColumn(Active, "DaysUntilDue", each 
+      Duration.Days(Date.From([DueDate]) - Date.From(DateTime.LocalNow())), Int64.Type),
+
+  Anchors = Table.SelectRows(AddDaysUntil, each [DaysUntilDue] >= 0 and [DaysUntilDue] <= AnchorDays and [Priority] <> "Critical"),
+
+  Merged = Table.NestedJoin(
+      Anchors, {"Region"},
+      AddDaysUntil, {"Region"},
+      "Cands", JoinKind.LeftOuter),
+
+  Expanded = Table.ExpandTableColumn(Merged, "Cands",
+      {"WorkOrderID","DueDate","Priority","Latitude","Longitude","DaysUntilDue"},
+      {"CandID","CandDue","CandPriority","CandLat","CandLon","CandDaysUntilDue"}),
+
+  Guard = Table.SelectRows(Expanded, each
+      [CandID] <> [WorkOrderID] and
+      [CandPriority] <> "Critical" and
+      (if [CandPriority] = "High" then [CandDaysUntilDue] <= HighWindowDays else true) and
+      Date.From([CandDue]) <= Date.AddDays(Date.From([DueDate]), LookaheadDays)
+  ),
+
+  WithDist = Table.AddColumn(Guard, "DistanceMiles", each 
+      fnHaversineMiles([Latitude],[Longitude],[CandLat],[CandLon]), type number),
+  Nearby = Table.SelectRows(WithDist, each [DistanceMiles] <= RadiusMiles),
+
+  AddTime = Table.AddColumn(Nearby, "TimeSaved_Hours_Est", each 
+      OverheadHoursPerTrip + ([DistanceMiles] / AvgSpeedMph), type number),
+  AddCost = Table.AddColumn(AddTime, "CostSaved_USD_Est", each 
+      [TimeSaved_Hours_Est] * 150, type number),
+  AddPenalty = Table.AddColumn(AddCost, "Penalty_Hours", each 
+      let Early = Number.Max(0, [CandDaysUntilDue] - HighWindowDays) in EarlyPenaltyPerDay * Early, type number),
+  AddScore = Table.AddColumn(AddPenalty, "BundleScore", each 
+      Number.Max(0, [TimeSaved_Hours_Est] - [Penalty_Hours]), type number),
+
+  Output = Table.SelectColumns(AddScore,
+      {"WorkOrderID","DueDate","Priority","Region","CandID","CandDue","CandPriority","DistanceMiles","TimeSaved_Hours_Est","CostSaved_USD_Est","BundleScore"}),
+  Renamed = Table.RenameColumns(Output, {
+      {"WorkOrderID","AnchorWorkOrderID"},
+      {"DueDate","AnchorDueDate"},
+      {"Priority","AnchorPriority"},
+      {"Region","AnchorRegionOrCell"},
+      {"CandID","CandidateWorkOrderID"},
+      {"CandDue","CandidateDueDate"},
+      {"CandPriority","CandidatePriority"}
+  })
+in
+  Renamed

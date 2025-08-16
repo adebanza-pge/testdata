@@ -1,0 +1,19 @@
+TopNCandidates = GENERATESERIES(10, 200, 10)
+
+TopNCandidates Value :=
+COALESCE( SELECTEDVALUE(TopNCandidates[Value]), 100 )
+
+Candidate Rank :=
+VAR anchor = SELECTEDVALUE( 'BundleSuggestions_Live'[AnchorWorkOrderID] )
+RETURN
+IF(
+  ISBLANK(anchor),
+  RANKX( ALL('BundleSuggestions_Live'[CandidateWorkOrderID]), [BundleScore], , DESC, DENSE ),
+  RANKX(
+    FILTER( ALL('BundleSuggestions_Live'), 'BundleSuggestions_Live'[AnchorWorkOrderID] = anchor ),
+    [BundleScore], , DESC, DENSE
+  )
+)
+
+Within Top N :=
+[Candidate Rank] <= [TopNCandidates Value]

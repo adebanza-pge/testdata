@@ -1,0 +1,16 @@
+Anchor Best Candidate Score :=
+VAR anchor =
+    SELECTEDVALUE ( 'BundleSuggestions_Live'[AnchorWorkOrderID] )
+VAR base =
+    FILTER (
+        ALLSELECTED ( 'BundleSuggestions_Live' ),
+        'BundleSuggestions_Live'[AnchorWorkOrderID] = anchor
+            && 'BundleSuggestions_Live'[DistanceMiles] <= [RadiusMiles Value]
+            && DATEDIFF ( TODAY(), 'BundleSuggestions_Live'[CandidateDueDate], DAY ) <= [HighWindowDays Value]
+    )
+VAR ranked =
+    ADDCOLUMNS ( base, "__Score", [BundleScore] )
+VAR t =
+    TOPN ( 1, ranked, [__Score], DESC, 'BundleSuggestions_Live'[CandidateWorkOrderID], ASC )
+RETURN
+MAXX ( t, [__Score] )

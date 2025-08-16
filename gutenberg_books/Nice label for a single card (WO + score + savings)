@@ -1,0 +1,24 @@
+Anchor Best Candidate (label) :=
+VAR anchor =
+    SELECTEDVALUE ( 'BundleSuggestions_Live'[AnchorWorkOrderID] )
+VAR base =
+    FILTER (
+        ALLSELECTED ( 'BundleSuggestions_Live' ),
+        'BundleSuggestions_Live'[AnchorWorkOrderID] = anchor
+            && 'BundleSuggestions_Live'[DistanceMiles] <= [RadiusMiles Value]
+            && DATEDIFF ( TODAY(), 'BundleSuggestions_Live'[CandidateDueDate], DAY ) <= [HighWindowDays Value]
+    )
+VAR ranked =
+    ADDCOLUMNS ( base, "__Score", [BundleScore], "__Cost", [CostSaved ($)] )
+VAR t =
+    TOPN ( 1, ranked, [__Score], DESC, [__Cost], DESC, 'BundleSuggestions_Live'[DistanceMiles], ASC )
+VAR bestWO   = MAXX ( t, 'BundleSuggestions_Live'[CandidateWorkOrderID] )
+VAR bestSc   = MAXX ( t, [__Score] )
+VAR bestCost = MAXX ( t, [__Cost] )
+RETURN
+IF (
+    ISBLANK ( anchor ),
+    BLANK (),
+    "Best: WO " & bestWO & " • Score " & FORMAT ( bestSc, "0.00" ) &
+    " • " & FORMAT ( bestCost, "$#,0" ) & " saved"
+)

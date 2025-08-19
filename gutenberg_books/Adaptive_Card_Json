@@ -5,12 +5,12 @@
   "body": [
     { "type": "TextBlock", "text": "Bundle Suggestion Approval", "weight": "Bolder", "size": "Large" },
     { "type": "FactSet", "facts": [
-      { "title": "Anchor WO", "value": "@{outputs('SelectedRow')?['AnchorWorkOrderID']}" },
-      { "title": "Candidate WO", "value": "@{outputs('SelectedRow')?['CandidateWorkOrderID']}" },
-      { "title": "Priority", "value": "@{outputs('SelectedRow')?['CandidatePriority']}" },
+      { "title": "Anchor WO", "value": "@{outputs('SelectedRow')?['AnchorWO']}" },
+      { "title": "Candidate WO", "value": "@{outputs('SelectedRow')?['CandidateWO']}" },
+      { "title": "Priority", "value": "@{outputs('SelectedRow')?['Priority']}" },
       { "title": "Due", "value": "@{outputs('Compose_CandidateDue')}" },
-      { "title": "Distance (mi)", "value": "@{outputs('SelectedRow')?['DistanceMiles']}" },
-      { "title": "Score", "value": "@{outputs('SelectedRow')?['BundleScore']}" },
+      { "title": "Distance (mi)", "value": "@{outputs('SelectedRow')?['DistanceMi']}" },
+      { "title": "Score", "value": "@{outputs('SelectedRow')?['Score']}" },
       { "title": "Est. Cost Saved", "value": "@{outputs('Compose_CostSavedUSD')}" },
       { "title": "Est. Time Saved (hrs)", "value": "@{outputs('Compose_TimeSavedHrs')}" }
     ]},

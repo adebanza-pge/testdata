@@ -1,18 +1,18 @@
 {
   "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
   "type": "AdaptiveCard",
-  "version": "1.4",
+  "version": "1.3",
   "body": [
     { "type": "TextBlock", "text": "Bundle Suggestion Approval", "weight": "Bolder", "size": "Large" },
     { "type": "FactSet", "facts": [
-      { "title": "Anchor WO", "value": "${AnchorWorkOrderID}" },
-      { "title": "Candidate WO", "value": "${CandidateWorkOrderID}" },
-      { "title": "Priority", "value": "${CandidatePriority}" },
-      { "title": "Due", "value": "${CandidateDueDate}" },
-      { "title": "Distance (mi)", "value": "${DistanceMiles}" },
-      { "title": "Score", "value": "${BundleScore}" },
-      { "title": "Est. Cost Saved", "value": "${CostSavedUSD}" },
-      { "title": "Est. Time Saved (hrs)", "value": "${TimeSavedHours}" }
+      { "title": "Anchor WO", "value": "@{outputs('SelectedRow')?['AnchorWorkOrderID']}" },
+      { "title": "Candidate WO", "value": "@{outputs('SelectedRow')?['CandidateWorkOrderID']}" },
+      { "title": "Priority", "value": "@{outputs('SelectedRow')?['CandidatePriority']}" },
+      { "title": "Due", "value": "@{outputs('Compose_CandidateDue')}" },
+      { "title": "Distance (mi)", "value": "@{outputs('SelectedRow')?['DistanceMiles']}" },
+      { "title": "Score", "value": "@{outputs('SelectedRow')?['BundleScore']}" },
+      { "title": "Est. Cost Saved", "value": "@{outputs('Compose_CostSavedUSD')}" },
+      { "title": "Est. Time Saved (hrs)", "value": "@{outputs('Compose_TimeSavedHrs')}" }
     ]},
     { "type": "TextBlock", "text": "Comments (optional)", "wrap": true, "spacing": "Medium" },
     { "type": "Input.Text", "id": "comments", "isMultiline": true, "placeholder": "Notes for dispatcher / integrity lead..." }

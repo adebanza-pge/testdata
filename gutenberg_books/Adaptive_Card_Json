@@ -1,0 +1,24 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.4",
+  "body": [
+    { "type": "TextBlock", "text": "Bundle Suggestion Approval", "weight": "Bolder", "size": "Large" },
+    { "type": "FactSet", "facts": [
+      { "title": "Anchor WO", "value": "${AnchorWorkOrderID}" },
+      { "title": "Candidate WO", "value": "${CandidateWorkOrderID}" },
+      { "title": "Priority", "value": "${CandidatePriority}" },
+      { "title": "Due", "value": "${CandidateDueDate}" },
+      { "title": "Distance (mi)", "value": "${DistanceMiles}" },
+      { "title": "Score", "value": "${BundleScore}" },
+      { "title": "Est. Cost Saved", "value": "${CostSavedUSD}" },
+      { "title": "Est. Time Saved (hrs)", "value": "${TimeSavedHours}" }
+    ]},
+    { "type": "TextBlock", "text": "Comments (optional)", "wrap": true, "spacing": "Medium" },
+    { "type": "Input.Text", "id": "comments", "isMultiline": true, "placeholder": "Notes for dispatcher / integrity lead..." }
+  ],
+  "actions": [
+    { "type": "Action.Submit", "title": "Approve", "data": { "action": "approve" } },
+    { "type": "Action.Submit", "title": "Reject",  "data": { "action": "reject"  } }
+  ]
+}
